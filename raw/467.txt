@@ -1,0 +1,9 @@
+Longirostres is a clade of crocodilians that includes the crocodiles and the gavialids, to the exclusion of the alligatoroids.  Named in 2003 by Harshman et al., Longirostres is a crown group defined phylogenetically as including the last common ancestor of Crocodylus niloticus and Gavialis gangeticus and all of its descendants.
+
+Traditionally, crocodiles and alligators were considered more closely related and grouped together in the clade Brevirostres, to the exclusion of the gharials.  This classification was based on morphological studies primarily focused on analyzing skeletal traits of living and extinct fossil species. However, recent molecular studies using DNA sequencing have rejected Brevirostres upon finding the crocodiles and gavialids to be more closely related than the alligators.
+
+Below is a cladogram showing the relationships of the major crocodile groups based on molecular studies:
+
+References
+
+Crocodilians

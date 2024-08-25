@@ -1,0 +1,37 @@
+In representation theory, polarization is the maximal totally isotropic subspace of a certain skew-symmetric bilinear form on a Lie algebra.
+ The notion of polarization plays an important role in construction of irredusible unitary representations of some classes of Lie groups by means of the orbit method as well as in harmonic analysis on Lie groups and mathematical physics.
+
+
+Definition 
+Let  be a Lie group,  the corresponding Lie algebra and  its dual Let  denote the value of the linear form (covector)  on a vector .
+ The subalgebra  of the algebra  is called subordinate of  if the condition
+,
+or, alternatively,
+
+is satisfied Further, let the group  act on the space  via coadjoint representation .
+ Let  be the orbit of such action which passes through the point  and  be the Lie algebra of the stabilizer  of the point .
+ A subalgebra  subordinate of  is called a polarization of the algebra  with respect to , or, more concisely, polarization of the covector , if it has maximal possible dimensionality, namely
+
+
+Pukanszky condition 
+The following condition was obtained by L Pukanszky:
+
+Let  be the polarization of algebra  with respect to covector  and  be its annihilator:  The polarization  is said to satisfy the Pukanszky condition if
+
+L Pukanszky has shown that this condition guaranties applicability of the Kirillov's orbit method initially constructed for nilpotent groups to more general case of solvable groups as well.
+
+
+Properties 
+ Polarization is the maximal totally isotropic subspace of the bilinear form  on the Lie algebra 
+ For some pairs  polarization may not exist
+ If the polarization does exist for the covector , then it exists for every point of the orbit  as well, and if  is the polarization for , then  is the polarization for  Thus, the existence of the polarization is the property of the orbit as a whole.
+
+ If the Lie algebra  is completely solvable, it admits the polarization for any point 
+ If  is the orbit of general position (i e.
+ has maximal dimensionality), for every point  there exists solvable polarization.
+
+
+References 
+
+Bilinear forms
+Representation theory of Lie algebras

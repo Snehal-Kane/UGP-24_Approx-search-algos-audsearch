@@ -1,0 +1,58 @@
+In statistical mechanics and condensed matter physics, the Kovacs effect is a kind of memory effect in glassy systems below the glass-transition temperature.
+ A.
+J.
+ Kovacs observed that a system’s state out of equilibrium is defined not only by its macro thermodynamical variables, but also by the inner parameters of the system.
+ In the original effect, in response to a temperature change, under constant pressure, the isobaric volume and free energy of the system experienced a recovery characterized by non-monotonic departure from equilibrium, whereas all other thermodynamical variables were in their equilibrium values.
+ It is considered a memory effect since the relaxation dynamics of the system depend on its thermal and mechanical history.
+
+
+The effect was discovered by Kovacs in the 1960s in polyvinyl acetate Since then, the Kovacs effect has been established as a very general phenomenon that comes about in a large variety of systems, model glasses,
+
+ tapped dense granular matter,   spin-glasses, 
+molecular liquids, granular gases, active matter, disordered mechanical systems, protein molecules, and more
+
+The effect in Kovacs’ experiments 
+Kovacs’ experimental procedure on polyvinyl acetate consisted of two main stages In the first step, the sample is instantaneously quenched from a high initial temperature  to a low reference temperature , under constant pressure.
+ The time-dependent volume of the system in  ,  , is recorded, until the time  when the system is considered to be at equilibrium.
+ The volume at  is defined as the equilibrium volume of the system at temperature :
+
+ 
+
+In the second step, the sample is quenched again from  to a temperature  that is lower than , so that  But now, the system is held at temperature  only until the time  when its volume reaches the equilibrium value of , meaning .
+
+
+Then, the temperature is raised instantaneously to , so both the temperature and the volume agree with the same equilibrium state Naively, one expects that nothing should happen when the system is at  and .
+ But instead, the volume of the system first increases and then relaxes back to , while the temperature is held constant at .
+ This non-monotonic behavior in time of the volume  after the jump in the temperature can be simply captured by:
+
+where  , and   is also referred as the “Kovacs hump”.
+ Kovacs also found that the hump displayed some general features:  with only one maximum of height  at a certain time ; as the temperature  is lowered, the hump becomes larger,  increases, and moves to shorter times,  decreases.
+ 
+
+In the subsequent studies of the Kovacs hump in different systems, a similar protocol with two jumps in the temperature has been employed The associated time evolution of a relevant physical quantity  , often the energy, is monitored and displays the Kovacs hump.
+ The physical relevance of this behavior is the same as in the Kovacs experiment: it shows that  does not completely characterize the dynamical state of the system, and the necessity of incorporating additional variables to have the whole picture.
+
+
+The Kovacs hump described above has been rationalized by employing linear response theory for molecular systems, in which the initial and final states are equilibrium ones Therein, the "direct" relaxation function (with only one temperature jump, instead of two) is a superposition of positive exponentially decaying modes, as a consequence of the fluctuation-dissipation theorem.
+ Linear response makes it possible to write the Kovacs hump in terms of the direct relaxation function.
+ Specifically, the positivity of the all the modes in the direct relaxation function ensures the "normal" character of the hump, i.
+e.
+ the fact that .
+ 
+
+Recently, analogous experiments have been proposed for "athermal" systems, like granular systems or active matter, with the proper reinterpretation of the variables For instance, in granular gases the relevant physical property  is still the energy—although one usually employs the terminology "granular temperature" for the kinetic energy in this context—but it is the intensity of the external driving  that plays the role of the temperature.
+ The emergence of Kovacs-like humps highlights the relevance of non-Gaussianities to describe the physical state of granular gases.
+
+
+"Anomalous" Kovacs humps have been reported in athermal systems, ie.
+ , i.
+e.
+ a minimum is observed instead of a maximum.
+ Although the linear response connection between the Kovacs hump and the direct relaxation function can be extended to athermal systems, not all the modes are positive definite—the standard version of the fluctuation-dissipation theorem does not apply.
+  This is the key that facilitates the emergence of anomalous behavior.
+
+
+References 
+
+Statistical mechanics
+Condensed matter physics

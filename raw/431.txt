@@ -1,0 +1,25 @@
+GRIN disorders (also GRIN-related disorders) are a group of neurodevelopmental disorders that result from mutations in genes coding for subunits of an N-methyl-D-aspartate (NMDA) receptor, which leads to dysfunction of glutamate signaling. GRIN disorders are universally characterized by a varying degree of developmental delay and intellectual disability, as well as epileptic seizures. Other clinical features vary depending on the affected gene and may include muscular hypotonia, spasticity, and movement disorders. GRIN disorders are confirmed with genetic testing and managed symptomatically since there is currently no cure for the disorder.
+
+Presentation
+Clinical features of GRIN-related disorders typically include intellectual disability and epilepsy along with other neurological and/or neuropsychiatric features, such as movement disorders, autism spectrum disorder, and problems with muscle tone.  The table below features some symptoms that can be present in disorders associated with particular genes, but the occurrence and severity of these symptoms are variable. There are only a few cases reported for GRIN2D-related disorder so far; therefore, listed features may not accurately reflect the spectrum of findings in this disorder.
+
+Pathophysiology
+
+NMDA receptors are a class of ionotropic glutamate receptors. The receptors are clustered at postsynaptic membranes of neurons and are composed of four subunits, which form a pore that allows for the passage of cations, including Ca2+, Na+, and K+. Normally, the pore of the receptor is blocked by Mg2+ in a voltage-dependent manner. Activation of the receptor requires binding of its main agonist, glutamate, as well as its co-agonist, glycine. Upon binding of glutamate and glycine and depolarization of the postsynaptic membrane mediated by another type of ionotropic receptor, AMPA receptor, Mg2+-caused block is relieved. This allows for the passage of Ca2+ and Na+ inside and K+ outside the cell, which leads to further postsynaptic membrane depolarization and activation of multiple downstream signaling pathways. Normal function of NMDA receptors is crucial for neuronal development, synaptic plasticity, learning, and memory.
+
+NMDA receptor is composed of four subunits assembled from seven possible ones (GluN1, GluN2 A to D, and GluN3A and GluN3B). A conventional NMDA receptor includes two GluN1 and two GluN2 subunits. The role of another type of subunits, GluN3, is not yet clear, although both its subtypes (GluN3A and GluN3B) were shown to resemble GluN1 subunits structurally and to assemble with the latter forming a functional receptor.  Subunits of NMDA receptor are encoded by GRIN genes:
+ GRIN1 codes for GluN1;
+ GRIN2A, GRIN2B, GRIN2C, and GRIN2D code for GluN2 A to D;
+ GRIN3A and GRIN3B code for GluN3A and GluN3B.
+Missense and nonsense variants of these genes can affect the function of the NMDA receptor and potentially lead to a range of neurological and neuropsychiatric sequelae. Variants in GRIN1, GRIN2A, GRIN2B, and GRIN2D were shown to be associated with specific clinical syndromes.
+
+Diagnosis
+
+Treatment
+
+References
+
+External links 
+ GRIN Portal
+
+Neurodevelopmental disorders

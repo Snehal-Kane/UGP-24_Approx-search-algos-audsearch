@@ -1,0 +1,26 @@
+Nestlé USA, Inc. v. Doe, 593 U. S.  (2021) is a United States Supreme Court decision regarding the Alien Tort Statute (ATS), which provides federal courts jurisdiction over claims brought by foreign nationals for violations of international law. Consolidated with Cargill, Inc. v. Doe, the case concerned a class-action lawsuit against Nestlé USA and Cargill for aiding and abetting child slavery in Côte d’Ivoire by purchasing from cocoa producers that utilize child slave labor from Mali. The plaintiffs, who were former slave laborers in the cocoa farms, brought their claim in U.S. district court under the ATS. 
+
+The U.S. District Court for the Central District of California dismissed the suit on the basis that corporations cannot be sued under the ATS, and that the plaintiffs failed to allege the elements of an aiding and abetting claim. The U.S. Court of Appeals for the Ninth Circuit reversed, holding that corporations are liable for aiding and abetting slavery, in part because norms against slavery are "universal and absolute" and thus provide a basis for an ATS claim against a corporation; however, it did not address the argument by the defendant corporations that the complaint sought an extraterritorial application of the ATS, which the U.S. Supreme Court had recently rejected in Kiobel v. Royal Dutch Petroleum Co. 
+
+On remand, the district court again dismissed the claims, finding that the plaintiffs sought an impermissible extraterritorial application of the ATS. In the interim, the U.S. Supreme Court decided Jesner v. Arab Bank, PLC, which held that foreign corporations cannot be sued under the ATS. The Ninth Circuit reversed, finding that the holding in Jesner does not disturb its prior holding as to the domestic defendants, Nestle USA, Inc., and Cargill, Inc., and that the specific domestic conduct alleged by the plaintiffs falls within the focus of the ATS and does not require extraterritorial application of that statute.
+
+In an 8-1 opinion authored by Justice Clarence Thomas, the Supreme Court held that respondents improperly sought extraterritorial application of the ATS given the presumption of domestic application and that the conduct relevant to the statute's focus did not occur in the United States. Justice Thomas reasoned that nearly all the conduct alleged as the company's aiding and abetting forced labor—providing training, equipment, and cash to overseas farmers—occurred in the Ivory Coast, not the United States, and that "mere corporate presence" in the United States was not sufficient to establish the extraterritorial connection. The case was reversed and remanded. Justice Alito filed a dissenting opinion.
+
+Background
+Six Malians, identified as John Doe I through VI, were trafficked into Côte d’Ivoire as children and enslaved on cocoa plantations. The children, aged 12–14, were kept in harsh living conditions at the plantations, and they were forced under threat of violence to cultivate cocoa for up to fourteen hours per day without pay. The children witnessed slaves who were caught trying to escape from the plantation being tortured by guards. 
+
+Most of the cocoa that the slaves cultivated on Côte d’Ivoire plantations was sold to U.S. companies such as the Nestlé and Cargill corporations and imported to U.S. markets. Nestlé and Cargill encouraged the use of child slave labor on Côte d’Ivoire plantations by supporting farmers through capital investments in equipment, training, and cash advances. They also facilitated child slavery by lobbying "against legislation intended to make the use of child slavery transparent to the public" and mislead consumers on their actions in the region. The corporations also sent representatives to inspect plantations. In return, Nestlé and Cargill get cheaper cocoa imports, increasing their profit margins.
+
+History
+The case was initially filed in 2005 but dismissed by the District Court for the Central District of California in 2010. The Ninth Circuit remanded this decision, stating that the plaintiffs had standing to sue under the Alien Tort Statute—but the case was again dismissed by the district court.
+
+In oral arguments, the Malians were represented by Paul L. Hoffman, while Nestlé and Cargill were represented by Neal Katyal.
+
+References
+
+External links 
+ Slip opinion
+
+2021 in United States case law
+United States Supreme Court cases of the Roberts Court
+Alien Tort Statute case law

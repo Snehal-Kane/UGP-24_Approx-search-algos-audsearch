@@ -1,0 +1,32 @@
+Pendelluft (Derived from the German words for pendulum and air.
+) refers to the movement of gas between two regions of the lung, usually between regions of differing compliance or airway resistance.
+ Pendelluft is an important physiological concept to take into account during mechanical ventilation, particularly in patients with an open thorax, severe bronchospasm (e.
+g.
+ asthma or COPD), or with heterogeneous lung compliance (e.
+g.
+ ARDS).
+ It was first published as a physiological concept in 1956.
+
+
+Occurrence and consequences of pendelluft 
+An extreme example of pendelluft is found in a spontaneously breathing patient with an open hemithorax or large flail segment During the inspiratory phase, the contralateral lung (with a closed / intact chest wall) will expand with most of the tidal volume, with the open plura or paradoxical chest wall movement preventing expansion of the ipsilateral lung.
+ However, during the expiratory phase, there will be gas flow (pendelluft) from the contralateral lung to the lung ipsilateral to the open thorax.
+ Inspiration can also cause gas movement from the ipsilateral to the contralateral lung.
+ This can significantly impair ventilation, and historically was one issue that limited thoracic surgery until more complex methods of mechanical ventilation were available.
+
+
+Less profound bulk gas flow occurs in conditions where lung compliance and resistance is heterogenous Lung units which have slow time constants may fill through gas flow from neighbouring lung units with fast time constants.
+ This gas flow can help improve ventilation of alveoli in regions with increased airway resistance or poorer compliance, improving V/Q matching.
+ The consequence of this is that increased respiratory rates / reduced inspiratory times may prevent slow time unit alveoli from being recruited, worsening V/Q matching and thus worsening oxygenation.
+ The presence of pendelluft between different lung units in a mechanically ventilated patient can be demonstrated by an inspiratory hold manoeuvre, allowing gas flow between lung units to equilibrate, reflected in a plateau pressure.
+
+
+Pendelluft is one mechanism by which ventilation occurs during High-frequency oscillatory ventilation
+
+A final example of pendelluft is if two separate individuals are mechanically ventilated with one ventilator, as might be considered during a shortage of ventilators (such as during a pandemic) Even for two individuals well matched for weight and height (and thus appropriate tidal volume), differences in lung mechanics such as resistance and compliance (particularly due to underlying ARDS) may lead to pendelluft between the two patients in the circuit.
+ Despite this and many other limitations, ventilation of two patients simultaneously was considered and trialled during the COVID-19 pandemic, however was not used widely.
+
+
+References 
+
+Respiratory physiology

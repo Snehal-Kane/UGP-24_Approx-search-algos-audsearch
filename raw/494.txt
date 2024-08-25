@@ -1,0 +1,50 @@
+Looping is a 1982 action game developed and published in arcades by Video Games GmbH in Europe and Venture Line in North America. The player controls a plane across two phases in order to reach a docking station by destroying a terminal base or a rocket base to open a gate while avoiding obstacles along the way.
+
+Conceived by Italian designer and engineer Giorgio Ugozzoli, Looping was the second of two original games produced by German game developer Video Games GmbH, the first being Super Tank (1981). The idea came up during a period when Ugozzoli obtained a license for both gliding and engine aircraft due to being a fan of flying. He was chosen by Video Games GmbH due to being one of the few people in Europe at the time working with the TMS1000, as Texas Instruments suggested him to Video Games GmbH when looking for ideas and developers for a new project using the 8-bit TMS9980 processor. It was ported to the ColecoVision by Nuvatec in 1983. Conversions for the Atari 2600 and Intellivision were planned but never released.
+
+Looping was met with mixed reception from critics since its release on the ColecoVision but became one of the top-selling cartridges for the console in 1983; praise was given to the arcade-accurate presentation but others felt mixed in regards to sound design, while criticism was geared towards the frustrating gameplay and sensitive controls. A follow-up titled Sky Bumper (1982) was developed shortly after the game's launch without involvement of Ugozzoli and released by Venture Line.
+
+Gameplay 
+
+Looping is a side-scrolling action game where players guide a plane capable of performing 360° loops by holding the joystick in one direction while steering up or down across two phases in order to reach a docking station. In multiplayer, two players alternate turns after losing one of their plane stocks. The first phase starts in a runway and players must destroy either a terminal base or a rocket base to open a gate that leads to the second phase while avoiding hot-air balloon enemies and city obstacles.
+
+The second phase involves players flying through a pipe maze devoid of enemies where players must avoid crashing against walls while navigating across narrow passages. Players must also avoid several monsters, green liquid drops and bouncing balls at the final section to reach "The End" docking station. Extra points are earned by staying in the maze for long time periods or by flying faster. By successfully reaching "The End" station, the game loops back to the beginning of the first phase, with the gate leading to the second phase now open but introducing more obstacles and aggressive enemies, as well as a more difficult pipe maze. Crashing against an enemy or an obstacle will result in losing a plane stock and once all plane stocks are lost, the game is over unless the player inserts more credits into the arcade machine to continue playing.
+
+Development 
+Looping was the second of two original games produced by German game developer Video Games GmbH, the first being Super Tank (1981). It was developed in Parma, Italy by designer and engineer Giorgio Ugozzoli, who previously created the pinball machine Timothy T in the 1970s and engineered several electronic toys using the TMS1000, serving as his first commercial video game and recounted the project's development process and history in a 2011 interview. Ugozzoli revealed that he was chosen by Video Games GmbH due to being one of the few people in Europe working with the TMS1000, as Texas Instruments (TI) suggested him to Video Games GmbH when looking for ideas and developers for a new project using the 8-bit TMS9980 processor. Ugozzoli stated that the title was conceived during a period when he obtained a license for both gliding and engine aircraft due to being a fan of flying. Ugozzoli remarked that no Italian company had skills to market a new title, as Italy was known for clone games at the time.
+
+Unlike other game manufacturers, the staff adopted a rack system that consisted of CPU, I/O and power supply; Giorgio Ugozzoli designed the concept, graphic, CPU board and PCB, while Video Games GmbH re-used the same video board and power supply from Super Tank. Ugozzoli stated that he invested his savings on a development kit consisting of a TI-990/4 based on the 16-bit TMS9900 with an in-circuit emulation (ICE) for the TMS1000, while TI also gifted him an ICE for the TMS9900 with a operating system, compiler and debugger. Ugozzoli made a first attempt using a Intel 8086 chip, which was faster but not effective, as he was not able to have scrolling background and high sprite counts. Ugozzoli found the idea of working with 16-bit hardware to be thrilling and the sole solution, as his idea for Looping required "a lot of CPU." 
+
+Looping was programmed over the course of eight months by University of Parma graduate engineers Marco, Pietro and Silvio, who worked underpaid during the process. Ugozzoli stated that the gameplay logic was developed in "Pascalator", a programming translator from Pascal to assembler, while the plane flight and shots were coded directly in assembler. Ugozzoli also stated that development was quick due to the rack system, allowing software development to precede in parallel to hardware development. Due to his connections, the speech synthesis was handled in a week at a Texas Instruments factory in Nice, where Ugozzoli had previously completed speech for other products and the speech was provided by Giorgio Morosi. However, Ugozzoli claimed that programming the speech was very expensive, as staff chose single words or small phrases from a library by TI, though he refuted that the project was not costly. Ugozzoli revealed that a person named Mario created the sound effects. Ugozzoli recalled that how the plane controls should work became the most discussed point during development.
+
+Release 
+
+Looping was first released in arcades by Video Games GmbH in Europe and Venture Line in North America on March 1982. The game was ported to ColecoVision by Nuvatec and published in 1983 by Coleco in North America and CBS Electronics in Europe. The ColecoVision port was programmed by Ed English, as Giorgio Ugozzoli was not involved in the porting process. An Atari 2600 conversion, programmed by subcontractor Ed Temple, was under development by Individeo and advertised but went unpublished until it was released as a limited run of 250 boxed copies at the 2003 Classic Gaming Expo. An Intellivision version was planned as well but never released. In 2011, the game's ROM image was made available as freeware with permission from Video Games GmbH founder Reinhard Stompe.
+
+Reception and legacy 
+
+The ColecoVision conversion of Looping was met with mixed reception from critics since its release but proved to be one of the top-selling cartridges for the console in September 1983. Electronic Fun with Computers & Games Noel Steere gave the port a perfect rating and regarding its controls as unique. Likewise, Video Games Players Raymond Dimetrosky found the controls to be extremely sensitive, stating that young players may find the game frustrating, but praised the ColecoVision version for the colorful and detailed graphics as well as sound effects. 
+
+Helge Andersen of German magazine TeleMatch said that the unfamiliar controls was a constant challenge for players and regarded the title as a simple game without much technical effort. Andersen commended the visulas in the ColecoVision release but felt mixed in regards to the action and gameplay, however the sound design was panned. French publication Tilt gave positive remarks to the audiovisual presentation of the ColecoVision conversion. AllGames Brett Alan Weiss gave positive comments to the arcade-like graphics but found the music to be repetitive, while regarding the gameplay to be frustrating and tedious, stating that "Looping for the ColecoVision is a very good translation of the Arcade game; unfortunately, the Arcade game is not much fun to begin with."
+
+Shortly after the launch of Looping in arcades, a follow-up titled Sky Bumper was developed without the involvement of Giorgio Ugozzoli and released by Venture Line in June 1982.
+
+Notes
+
+References
+
+External links 
+
+ Looping at GameFAQs
+ Looping at Killer List of Videogames
+ Looping at MobyGames
+
+1982 video games
+Action video games
+Arcade video games
+Cancelled Atari 2600 games
+Cancelled Intellivision games
+ColecoVision games
+Freeware games
+Multiplayer and single-player video games
+Video games developed in Italy

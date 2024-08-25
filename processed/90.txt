@@ -1,0 +1,88 @@
+AN/SPS-8 is a two-dimensional radar manufactured by General Electric.
+ It was used by the US Navy as a height finding radar after World War II, and was equipped aboard naval ships during the Cold War.
+ Variants include AN/SPS-8A, AN-SPS/8B, AN/SPS-8C and AN/SPS-8D After modernization, it was redesignated as AN/SPS-30.
+
+
+AN/SPS-8 
+It worked in two modes in terms of range - with a pulse frequency of 1000 Hz (pulse duration 1 μs, range 154 km) and 500 Hz (2 μs, 308 km) In a real situation, the F2H aircraft was detected at a distance of 111 km (SPS-8A / B modifications - 133 km).
+
+
+The target elevation angle was determined by scanning the beam in the vertical plane with a frequency of 5, 10 or 20 Hz (in the SPS-8B modification -6, 12 and 165 Hz).
+ The accuracy of determining the height was 150 m.
+ The deflection of the beam in elevation was carried out by a Robinson Scanner feed in modifications SPS-8 and SPS-8A and an organ-type feed in modification SPS-8B
+
+In the SPS-8A modification, the capacity was increased from 650 kW to 1 MW with a design capacity of 2 MW In the 2-μs pulse mode, pulse repetition rates of 450 and 750 Hz were provided.
+
+
+The SPS-8 and SPS-8A used the same mesh antennas SPS-8B, first tested in January–June 1956 and put into service in 1959, had a high gain antenna (41 instead of 37.
+4 dB), a narrower beam (1.
+2 ° × 1.
+5 °) wider scanning sector in elevation (12 °) at a vertical scanning frequency of 6, 12 and 16.
+5 Hz.
+
+
+The information was displayed on the VK circular view indicator (Model VK Plan Position Indicator) and the VL range-height indicator (Model VL Range-Height Indicator)
+
+Onboard ships
+
+United States 
+Essex-class aircraft carrier 
+Midway-class aircraft carrier
+Forrestal-class aircraft carrier
+Independence-class aircraft carrier
+Iowa-class battleship
+Baltimore-class cruiser
+Worcester-class cruiser 
+Boston-class cruiser
+Providence-class cruiser
+Galveston-class cruiser
+Mitscher-class destroyer
+Gearing-class destroyer
+Guardian-class radar picket ship
+
+Canada 
+
+ HMCS Bonaventure
+
+AN/SPS-30 
+Based on the SPS-8B, the best American sweeping beam radar, the SPS-30, was created, which used a high gain antenna and a 25 MW klystron.
+ Work on its creation began in 1956.
+ It is a three-dimensional radar.
+
+
+It was planned to upgrade the SPS-8 and SPS-8A to SPS-8C / D with the installation of the same antennas and klystrons as on the SPS-30, but these plans were not implemented, although at the end of 1957, 30 new antennas were produced
+
+A modification of the SPS-8 was the CXRX radar,
+
+Onboard ships
+
+United States 
+Essex-class aircraft carrier 
+Boston-class cruiser
+USS Atlanta
+Galveston-class cruiser
+Gearing-class destroyer
+
+Canada 
+
+ HMCS Bonaventure
+
+See More 
+
+ List of radars
+ Radar configurations and types
+ Height finding radar
+
+Citations
+
+References 
+
+ Norman Friedman (2006) The Naval Institute Guide to World Naval Weapon Systems.
+  Naval Institute Press.
+  ISBN 9781557502629
+ Self-Defense Force Equipment Yearbook 2006-2007 Asaun News Agency.
+ ISBN 4-7509-1027-9
+
+Naval radars
+Military radars of the United States
+Military equipment introduced in the 1950s

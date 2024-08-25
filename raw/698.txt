@@ -1,0 +1,37 @@
+A diffractive optically variable image device (DOVID) is a type of optical variable device; a security feature based on visual effects created by diffraction. DOVIDs are incorporated in government-issued documents of value (banknotes, passports, visas, identification credentials and driver licenses) to increase their counterfeit resistance. Brand protection is another application of DOVIDs. DOVIDs contain micro- or nanostructures in the form of diffractive gratings. Due to these structures, they exhibit optically variable effects such as dynamic chromatic, holographic, and kinematic effects, two- or three-dimensional images or color-changing effects, which ideally are easily recognized, but are difficult to reproduce. Well known examples of DOVIDs are holograms such as 2D or 3D or 2D/3D holograms based on mask illumination, dot matrix or e-beam origination technology and Kinegrams.
+
+A DOVID can also contain elements which are invisible to the unaided human eye such as microprint, kinetic microtext, or a variable laser-readable micro-image that is invisible when magnified under white light. DOVID structures can be incorporated in a foil: which is then hot stamped on a paper document (e.g., banknote, visa), incorporated within the structure of a polycarbonate or composite card (e.g., passport, driver licenses) before personalization or integrated in a laminate that is heat sealed to the surface of a card after personalization (e.g., driver licenses, identity cards).
+
+Composition of DOVIDs 
+
+In most cases DOVIDs are produced as a foil element in roll-to-roll mass production. Exceptions are DOVIDs which are directly embossed into a product. One example is the Kinebar, where a DOVID is embossed into the surface of a gold bar. DOVIDs are produced as a multi-layer foil system which is prepared on a polyester carrier either as a laminating foil or a transfer foil. In the transfer foil, the polyester carrier is removed after transfer of the layers composing the DOVID to the target substrate, whereas in the laminating foil, the polyester carrier remains on the target substrate. The build-up of the foil usually constitutes a separation layer for releasing the polyester carrier during transfer.
+
+Other layers of the build-up are protective layer, replicate layer, reflection layer (metal or transparent high-refractive index material) and adhesive layer. Except for the reflection layer all other layers are made of polymeric material. The structures, which generate optically variable effects, are replicated as a microrelief in a roll-to-roll step in the replicate layer, either by hot- or by UV-replication.
+
+The reflection layer is needed due since the replicated structures are embedded in polymeric material with nearly identical optical properties. In most cases aluminum or a high-refractive index material (HRI) such as titanium dioxide (TiO2) or zinc sulfide (ZnS) is used for this layer.
+
+Specific types of DOVIDs 
+DOVID types can be categorized as follows:
+
+Transparent: This DOVID feature consists only of dielectric material, typically including a high-refractive index material (HRI), and therefore is highly transparent. An underlying image or print may be seen clearly.  Depending on the angle of view, the DOVID reveals an optically variable image. Transparent DOVIDs can be applied in patch form or as a laminate covering the entire surface of the substrate, e.g. the paper-based data page of a passport. This type of DOVID is not well suited for protecting banknotes due to the moisture sensitivity of the HRI material, but they are widely used for securing some government-issued identity documents.
+
+Metallized: This DOVID is opaque, exhibiting a fully metallized (mostly aluminum coated) diffractive image with optically variable effects. Fully metallized DOVIDs are typically applied in patch or stripe form. They are, for example, used for protecting paper-based documents, such as birth certificates or land titles. In the late 1980s and early 1990s, this type of DOVID was also used on banknotes.
+
+Partially metallized: This DOVID contains a combination of opacity and transparency on the same surface. The originally fully metallized image is selectively de-metallized to emphasize specific texts or other sub-structures, and to create patterns or specific shapes by the metallization. For over thirty years, this type of DOVID has been used to protect banknotes and applied in patch or stripe form.
+
+Hybrid or Combi: This DOVID contains two or more interrelated visual areas, such as partially metallized and transparent, but revealing continuous visual effects for authentication. The combination of both (partially) metallized and transparent high-refractive index coatings in one feature is more complex than only transparent or only partially metallized features and requires more sophisticated production techniques, thus making it more difficult to counterfeit.
+
+Precision Metallized: A precision metallized DOVID is composed of fine-line diffractive images which are in perfect register to the metallization. In contrast to conventional partial metallization, the tolerances in a precision metallized DOVID approach zero. Typical designs include metallized guilloche patterns with clearly defined movements and fully transparent intermediate areas (i.e., with no diffractive structures) revealing the underlying document or banknote security print. The precise, zero-tolerance registration between the diffractive images and the metallization enables design possibilities not achievable with normal partial metallization making it harder for counterfeiters to mimic the DOVID appearance.
+
+Incorporation of DOVIDs in documents 
+DOVIDs are applied either during the manufacturing process of the documents or at the document issuing office.
+
+For banknotes, DOVIDS are applied to the paper or polymer surface (as a patch or stripe) or incorporated as a windowed security thread.  In most cases, some form of security print is applied over portions of the DOVID to integrate it into the document (layered security) and make counterfeiting more difficult.
+
+For paper-based identity documents (visas and passports), DOVIDs are either incorporated prior to personalization in the same manner as for banknotes (visas) or, as a full-face laminate after personalization (passport data pages).  For incorporation of DOVIDs prior to personalization, a security print is usually applied over portions of the DOVID to integrate it into the document (layered security).
+
+For plastic-based (e.g., polycarbonate, Teslin, and composites) identity documents (identity cards, driver licenses and passport data pages), DOVIDS are often embedded within the card body during card layer collation and lamination process. This adds durability and increases security while enabling complex interaction with security features on other layers of the card (layered security). In rare cases, DOVIDs are applied on the plastic surface similar to paper-based documents.
+
+References 
+
+Money forgery

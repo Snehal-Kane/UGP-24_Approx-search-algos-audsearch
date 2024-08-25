@@ -1,0 +1,33 @@
+Betaarterivirus is a genus of enveloped, positive-strand RNA viruses which infect vertebrates.
+ The genus is in the family Arteriviridae and order Nidovirales.
+ The genus contains four subgenera and six species.
+
+
+Structure 
+Member viruses are enveloped, spherical, and 45–60 nm in diameter
+
+Genome 
+Betaarteriviruses have a positive-sense single-stranded RNA genome
+
+Taxonomy 
+The genus Betaarterivirus contains four subgenera and six species:
+
+Ampobartevirus
+Betaarterivirus suid 2
+
+Chibartevirus
+Betaarterivirus chinrav 1
+Betaarterivirus ninrav
+Betaarterivirus sheoin
+
+Eurpobartevirus
+Betaarterivirus suid 1
+
+Mibartevirus
+Betaarterivirus timiclar
+
+References 
+
+Nidovirales
+Arteriviridae
+Virus genera

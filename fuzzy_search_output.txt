@@ -1,0 +1,415 @@
+Match(start=985, end=995, dist=4, matched=bytearray(b'art report')) FIlename=processed/1.txt
+Match(start=282, end=291, dist=5, matched=bytearray(b'an report')) FIlename=processed/102.txt
+Match(start=806, end=818, dist=4, matched=bytearray(b'al \nA report')) FIlename=processed/108.txt
+Match(start=375, end=389, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/110.txt
+Match(start=6977, end=6986, dist=5, matched=bytearray(b' A report')) FIlename=processed/116.txt
+Match(start=7271, end=7284, dist=4, matched=bytearray(b'at was report')) FIlename=processed/116.txt
+Match(start=454, end=466, dist=5, matched=bytearray(b't their fort')) FIlename=processed/119.txt
+Match(start=5343, end=5356, dist=5, matched=bytearray(b'at the realit')) FIlename=processed/130.txt
+Match(start=283, end=296, dist=5, matched=bytearray(b'ation airport')) FIlename=processed/2.txt
+Match(start=7092, end=7102, dist=5, matched=bytearray(b'at the ori')) FIlename=processed/208.txt
+Match(start=774, end=782, dist=5, matched=bytearray(b't report')) FIlename=processed/212.txt
+Match(start=1816, end=1828, dist=5, matched=bytearray(b't was report')) FIlename=processed/212.txt
+Match(start=2480, end=2494, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/226.txt
+Match(start=119, end=132, dist=4, matched=bytearray(b'at the Depart')) FIlename=processed/233.txt
+Match(start=1195, end=1207, dist=5, matched=bytearray(b'ation Report')) FIlename=processed/238.txt
+Match(start=883, end=897, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/241.txt
+Match(start=400, end=412, dist=5, matched=bytearray(b't was report')) FIlename=processed/243.txt
+Match(start=697, end=705, dist=5, matched=bytearray(b'a report')) FIlename=processed/246.txt
+Match(start=328, end=340, dist=5, matched=bytearray(b't was report')) FIlename=processed/254.txt
+Match(start=5589, end=5605, dist=5, matched=bytearray(b'ated in a report')) FIlename=processed/258.txt
+Match(start=9708, end=9723, dist=5, matched=bytearray(b'ate the Propert')) FIlename=processed/258.txt
+Match(start=510, end=522, dist=5, matched=bytearray(b'ad that part')) FIlename=processed/263.txt
+Match(start=1817, end=1830, dist=5, matched=bytearray(b'at that point')) FIlename=processed/265.txt
+Match(start=507, end=521, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/272.txt
+Match(start=1463, end=1477, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/278.txt
+Match(start=847, end=857, dist=5, matched=bytearray(b'ary report')) FIlename=processed/282.txt
+Match(start=2922, end=2935, dist=5, matched=bytearray(b'at the memori')) FIlename=processed/282.txt
+Match(start=3092, end=3106, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/282.txt
+Match(start=1007, end=1021, dist=5, matched=bytearray(b'at the Oregon ')) FIlename=processed/285.txt
+Match(start=1064, end=1075, dist=5, matched=bytearray(b'at the Port')) FIlename=processed/285.txt
+Match(start=2385, end=2396, dist=5, matched=bytearray(b't therefore')) FIlename=processed/295.txt
+Match(start=5993, end=6005, dist=5, matched=bytearray(b'as therefore')) FIlename=processed/295.txt
+Match(start=387, end=401, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/303.txt
+Match(start=559, end=573, dist=4, matched=bytearray(b'ard the report')) FIlename=processed/325.txt
+Match(start=1818, end=1831, dist=5, matched=bytearray(b'tted a report')) FIlename=processed/325.txt
+Match(start=1164, end=1175, dist=4, matched=bytearray(b't is report')) FIlename=processed/329.txt
+Match(start=1249, end=1257, dist=5, matched=bytearray(b'a report')) FIlename=processed/329.txt
+Match(start=2220, end=2228, dist=5, matched=bytearray(b't report')) FIlename=processed/33.txt
+Match(start=138, end=148, dist=5, matched=bytearray(b'at the Art')) FIlename=processed/334.txt
+Match(start=2000, end=2010, dist=5, matched=bytearray(b'at the Art')) FIlename=processed/334.txt
+Match(start=5790, end=5804, dist=5, matched=bytearray(b'at to the fort')) FIlename=processed/34.txt
+Match(start=6167, end=6178, dist=4, matched=bytearray(b' the report')) FIlename=processed/34.txt
+Match(start=11346, end=11360, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/34.txt
+Match(start=2385, end=2397, dist=5, matched=bytearray(b't to support')) FIlename=processed/342.txt
+Match(start=3607, end=3619, dist=5, matched=bytearray(b't to support')) FIlename=processed/342.txt
+Match(start=1664, end=1678, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/348.txt
+Match(start=1264, end=1278, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/353.txt
+Match(start=436, end=445, dist=5, matched=bytearray(b'as report')) FIlename=processed/363.txt
+Match(start=992, end=1006, dist=5, matched=bytearray(b'at the author ')) FIlename=processed/373.txt
+Match(start=574, end=585, dist=5, matched=bytearray(b't the sport')) FIlename=processed/381.txt
+Match(start=612, end=626, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/382.txt
+Match(start=1407, end=1418, dist=5, matched=bytearray(b'ance report')) FIlename=processed/387.txt
+Match(start=697, end=711, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/388.txt
+Match(start=2656, end=2670, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/391.txt
+Match(start=3437, end=3448, dist=5, matched=bytearray(b'also report')) FIlename=processed/394.txt
+Match(start=2612, end=2626, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/407.txt
+Match(start=1173, end=1187, dist=5, matched=bytearray(b'as the prepare')) FIlename=processed/410.txt
+Match(start=5400, end=5411, dist=5, matched=bytearray(b'alph retort')) FIlename=processed/412.txt
+Match(start=622, end=634, dist=5, matched=bytearray(b't was report')) FIlename=processed/427.txt
+Match(start=727, end=741, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/427.txt
+Match(start=2045, end=2059, dist=5, matched=bytearray(b'at the areas o')) FIlename=processed/43.txt
+Match(start=1108, end=1119, dist=5, matched=bytearray(b'ases report')) FIlename=processed/431.txt
+Match(start=40, end=54, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/438.txt
+Match(start=222, end=231, dist=5, matched=bytearray(b'al report')) FIlename=processed/438.txt
+Match(start=2606, end=2617, dist=5, matched=bytearray(b'told report')) FIlename=processed/438.txt
+Match(start=4205, end=4217, dist=5, matched=bytearray(b'at the afore')) FIlename=processed/438.txt
+Match(start=8554, end=8566, dist=5, matched=bytearray(b' they report')) FIlename=processed/438.txt
+Match(start=10280, end=10291, dist=5, matched=bytearray(b'ally report')) FIlename=processed/438.txt
+Match(start=10827, end=10839, dist=5, matched=bytearray(b't was report')) FIlename=processed/438.txt
+Match(start=11029, end=11041, dist=4, matched=bytearray(b'ation report')) FIlename=processed/438.txt
+Match(start=14658, end=14671, dist=5, matched=bytearray(b'at these post')) FIlename=processed/438.txt
+Match(start=15530, end=15538, dist=5, matched=bytearray(b't report')) FIlename=processed/438.txt
+Match(start=1561, end=1573, dist=5, matched=bytearray(b'arty proport')) FIlename=processed/452.txt
+Match(start=1024, end=1036, dist=5, matched=bytearray(b'at the Georg')) FIlename=processed/462.txt
+Match(start=2121, end=2134, dist=5, matched=bytearray(b'at the memori')) FIlename=processed/48.txt
+Match(start=175, end=189, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/483.txt
+Match(start=13570, end=13582, dist=4, matched=bytearray(b'at the Sport')) FIlename=processed/491.txt
+Match(start=16708, end=16721, dist=5, matched=bytearray(b'and he report')) FIlename=processed/491.txt
+Match(start=18100, end=18113, dist=5, matched=bytearray(b'and he report')) FIlename=processed/491.txt
+Match(start=19635, end=19648, dist=5, matched=bytearray(b'and he report')) FIlename=processed/491.txt
+Match(start=27347, end=27357, dist=5, matched=bytearray(b' FA report')) FIlename=processed/491.txt
+Match(start=33490, end=33499, dist=5, matched=bytearray(b'as report')) FIlename=processed/491.txt
+Match(start=1025, end=1036, dist=5, matched=bytearray(b'a de Deport')) FIlename=processed/496.txt
+Match(start=548, end=559, dist=4, matched=bytearray(b' the report')) FIlename=processed/501.txt
+Match(start=1042, end=1052, dist=5, matched=bytearray(b' TV report')) FIlename=processed/516.txt
+Match(start=843, end=853, dist=5, matched=bytearray(b'at Airport')) FIlename=processed/522.txt
+Match(start=886, end=896, dist=5, matched=bytearray(b'at Airport')) FIlename=processed/524.txt
+Match(start=834, end=844, dist=5, matched=bytearray(b'at Airport')) FIlename=processed/530.txt
+Match(start=1309, end=1318, dist=5, matched=bytearray(b'as report')) FIlename=processed/534.txt
+Match(start=2465, end=2474, dist=5, matched=bytearray(b'as report')) FIlename=processed/561.txt
+Match(start=282, end=296, dist=5, matched=bytearray(b'as the support')) FIlename=processed/565.txt
+Match(start=2726, end=2738, dist=5, matched=bytearray(b'at the Georg')) FIlename=processed/58.txt
+Match(start=1168, end=1180, dist=5, matched=bytearray(b' the airport')) FIlename=processed/588.txt
+Match(start=1203, end=1217, dist=5, matched=bytearray(b'ad the support')) FIlename=processed/588.txt
+Match(start=1404, end=1416, dist=5, matched=bytearray(b' the airport')) FIlename=processed/588.txt
+Match(start=872, end=887, dist=5, matched=bytearray(b'at the age of t')) FIlename=processed/596.txt
+Match(start=2592, end=2604, dist=5, matched=bytearray(b'an transport')) FIlename=processed/596.txt
+Match(start=3566, end=3578, dist=5, matched=bytearray(b'an transport')) FIlename=processed/609.txt
+Match(start=364, end=377, dist=3, matched=bytearray(b'a, the report')) FIlename=processed/623.txt
+Match(start=4439, end=4451, dist=5, matched=bytearray(b'ad therefore')) FIlename=processed/629.txt
+Match(start=3313, end=3323, dist=5, matched=bytearray(b'and report')) FIlename=processed/637.txt
+Match(start=2305, end=2315, dist=4, matched=bytearray(b'ate report')) FIlename=processed/643.txt
+Match(start=10010, end=10023, dist=5, matched=bytearray(b'amitsu report')) FIlename=processed/643.txt
+Match(start=1112, end=1123, dist=5, matched=bytearray(b'at the arra')) FIlename=processed/647.txt
+Match(start=3646, end=3657, dist=5, matched=bytearray(b'a transport')) FIlename=processed/647.txt
+Match(start=2372, end=2384, dist=5, matched=bytearray(b'at The-Sport')) FIlename=processed/676.txt
+Match(start=5233, end=5244, dist=4, matched=bytearray(b' the report')) FIlename=processed/679.txt
+Match(start=7820, end=7834, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/679.txt
+Match(start=1973, end=1982, dist=5, matched=bytearray(b'as report')) FIlename=processed/680.txt
+Match(start=7456, end=7467, dist=5, matched=bytearray(b'a transport')) FIlename=processed/680.txt
+Match(start=11084, end=11096, dist=5, matched=bytearray(b't the import')) FIlename=processed/680.txt
+Match(start=3309, end=3318, dist=4, matched=bytearray(b'th report')) FIlename=processed/685.txt
+Match(start=3716, end=3727, dist=5, matched=bytearray(b'ther report')) FIlename=processed/685.txt
+Match(start=716, end=726, dist=5, matched=bytearray(b't to repro')) FIlename=processed/698.txt
+Match(start=1743, end=1757, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/704.txt
+Match(start=5985, end=5996, dist=5, matched=bytearray(b'a transport')) FIlename=processed/704.txt
+Match(start=6309, end=6319, dist=5, matched=bytearray(b'tly report')) FIlename=processed/704.txt
+Match(start=7457, end=7471, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/704.txt
+Match(start=2637, end=2648, dist=5, matched=bytearray(b' the deport')) FIlename=processed/711.txt
+Match(start=5065, end=5076, dist=5, matched=bytearray(b't of deport')) FIlename=processed/711.txt
+Match(start=2503, end=2517, dist=5, matched=bytearray(b'at the tempora')) FIlename=processed/712.txt
+Match(start=4658, end=4669, dist=5, matched=bytearray(b' the deport')) FIlename=processed/712.txt
+Match(start=185, end=198, dist=4, matched=bytearray(b'at the Depart')) FIlename=processed/713.txt
+Match(start=675, end=684, dist=5, matched=bytearray(b'th deport')) FIlename=processed/713.txt
+Match(start=2892, end=2903, dist=5, matched=bytearray(b' the deport')) FIlename=processed/713.txt
+Match(start=6787, end=6798, dist=4, matched=bytearray(b' the report')) FIlename=processed/713.txt
+Match(start=6967, end=6980, dist=3, matched=bytearray(b'at the deport')) FIlename=processed/713.txt
+Match(start=7598, end=7612, dist=5, matched=bytearray(b't the preparat')) FIlename=processed/713.txt
+Match(start=9377, end=9390, dist=5, matched=bytearray(b'to the deport')) FIlename=processed/713.txt
+Match(start=9617, end=9628, dist=5, matched=bytearray(b' the deport')) FIlename=processed/713.txt
+Match(start=11041, end=11054, dist=5, matched=bytearray(b'to the deport')) FIlename=processed/713.txt
+Match(start=13463, end=13476, dist=5, matched=bytearray(b'to the deport')) FIlename=processed/713.txt
+Match(start=22405, end=22416, dist=5, matched=bytearray(b' the deport')) FIlename=processed/713.txt
+Match(start=22660, end=22671, dist=5, matched=bytearray(b' the deport')) FIlename=processed/713.txt
+Match(start=23425, end=23436, dist=5, matched=bytearray(b' the deport')) FIlename=processed/713.txt
+Match(start=7272, end=7282, dist=5, matched=bytearray(b'at the art')) FIlename=processed/717.txt
+Match(start=8662, end=8675, dist=5, matched=bytearray(b't the propert')) FIlename=processed/717.txt
+Match(start=10407, end=10421, dist=5, matched=bytearray(b'at the present')) FIlename=processed/723.txt
+Match(start=27709, end=27723, dist=5, matched=bytearray(b'as the propert')) FIlename=processed/723.txt
+Match(start=41701, end=41713, dist=5, matched=bytearray(b'as therefore')) FIlename=processed/723.txt
+Match(start=3010, end=3020, dist=5, matched=bytearray(b'are report')) FIlename=processed/724.txt
+Match(start=4906, end=4916, dist=5, matched=bytearray(b'are report')) FIlename=processed/724.txt
+Match(start=10552, end=10562, dist=5, matched=bytearray(b'at the ori')) FIlename=processed/724.txt
+Match(start=26449, end=26462, dist=5, matched=bytearray(b'are no report')) FIlename=processed/724.txt
+Match(start=27521, end=27534, dist=5, matched=bytearray(b't to the port')) FIlename=processed/724.txt
+Match(start=33067, end=33077, dist=5, matched=bytearray(b'are report')) FIlename=processed/724.txt
+Match(start=38337, end=38349, dist=5, matched=bytearray(b' this report')) FIlename=processed/724.txt
+Match(start=42113, end=42125, dist=5, matched=bytearray(b'as therefore')) FIlename=processed/724.txt
+Match(start=46342, end=46350, dist=5, matched=bytearray(b'a report')) FIlename=processed/724.txt
+Match(start=2750, end=2763, dist=5, matched=bytearray(b'as the opport')) FIlename=processed/739.txt
+Match(start=246, end=260, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/751.txt
+Match(start=820, end=831, dist=5, matched=bytearray(b't therefore')) FIlename=processed/774.txt
+Match(start=2035, end=2047, dist=4, matched=bytearray(b'at transport')) FIlename=processed/776.txt
+Match(start=4902, end=4911, dist=5, matched=bytearray(b'as report')) FIlename=processed/78.txt
+Match(start=792, end=804, dist=5, matched=bytearray(b'at the Georg')) FIlename=processed/782.txt
+Match(start=1357, end=1368, dist=5, matched=bytearray(b'alia report')) FIlename=processed/783.txt
+Match(start=1513, end=1522, dist=5, matched=bytearray(b'as report')) FIlename=processed/783.txt
+Match(start=1585, end=1593, dist=5, matched=bytearray(b'a report')) FIlename=processed/783.txt
+Match(start=1891, end=1901, dist=5, matched=bytearray(b'ana report')) FIlename=processed/783.txt
+Match(start=297, end=307, dist=5, matched=bytearray(b'a to repre')) FIlename=processed/80.txt
+Match(start=2254, end=2264, dist=5, matched=bytearray(b'atter port')) FIlename=processed/808.txt
+Match(start=512, end=523, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=666, end=677, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=2035, end=2048, dist=5, matched=bytearray(b'a, was report')) FIlename=processed/811.txt
+Match(start=19205, end=19216, dist=5, matched=bytearray(b'alth depart')) FIlename=processed/811.txt
+Match(start=19834, end=19845, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=21153, end=21161, dist=5, matched=bytearray(b't report')) FIlename=processed/811.txt
+Match(start=25476, end=25485, dist=5, matched=bytearray(b'as report')) FIlename=processed/811.txt
+Match(start=26612, end=26624, dist=5, matched=bytearray(b't was report')) FIlename=processed/811.txt
+Match(start=27016, end=27025, dist=5, matched=bytearray(b'as report')) FIlename=processed/811.txt
+Match(start=27083, end=27094, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=28177, end=28186, dist=5, matched=bytearray(b'as report')) FIlename=processed/811.txt
+Match(start=28958, end=28970, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=29702, end=29713, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=29989, end=30001, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=30370, end=30382, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=32010, end=32022, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=32931, end=32943, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=33551, end=33560, dist=5, matched=bytearray(b'as report')) FIlename=processed/811.txt
+Match(start=33850, end=33862, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=35903, end=35915, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=36673, end=36685, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=37855, end=37867, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=39549, end=39561, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=40702, end=40714, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=41862, end=41874, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=44061, end=44073, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=46837, end=46849, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=48018, end=48030, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=49132, end=49144, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=50093, end=50105, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=51395, end=51407, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=52728, end=52740, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=54425, end=54437, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=56236, end=56248, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=57829, end=57841, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=60728, end=60740, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=61010, end=61023, dist=5, matched=bytearray(b'as not report')) FIlename=processed/811.txt
+Match(start=62098, end=62110, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=64297, end=64309, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=65895, end=65907, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=69023, end=69035, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=70829, end=70841, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=72834, end=72846, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=73932, end=73942, dist=3, matched=bytearray(b'ath report')) FIlename=processed/811.txt
+Match(start=74279, end=74291, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=75992, end=76004, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=77450, end=77460, dist=3, matched=bytearray(b'ath report')) FIlename=processed/811.txt
+Match(start=78004, end=78016, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=79422, end=79433, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=79886, end=79897, dist=4, matched=bytearray(b't as report')) FIlename=processed/811.txt
+Match(start=80242, end=80254, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=81535, end=81546, dist=3, matched=bytearray(b'alth report')) FIlename=processed/811.txt
+Match(start=83157, end=83168, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=83701, end=83713, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=85813, end=85824, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=87299, end=87312, dist=5, matched=bytearray(b'ak was report')) FIlename=processed/811.txt
+Match(start=87451, end=87462, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=88243, end=88256, dist=5, matched=bytearray(b'ak was report')) FIlename=processed/811.txt
+Match(start=90017, end=90029, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=91730, end=91742, dist=5, matched=bytearray(b'total report')) FIlename=processed/811.txt
+Match(start=93208, end=93219, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=94766, end=94777, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=97218, end=97229, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=99584, end=99595, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=101267, end=101278, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=103090, end=103101, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=104813, end=104824, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=106703, end=106714, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=108848, end=108859, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=110454, end=110465, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=112330, end=112341, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=114585, end=114596, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=117059, end=117070, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=119056, end=119067, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=120539, end=120550, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=122437, end=122448, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=124854, end=124865, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=126356, end=126367, dist=5, matched=bytearray(b'alth depart')) FIlename=processed/811.txt
+Match(start=128080, end=128091, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=130402, end=130413, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=132689, end=132700, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=134386, end=134397, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=136872, end=136883, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=139740, end=139751, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=141641, end=141652, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=143642, end=143653, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=146261, end=146272, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=147873, end=147884, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=149741, end=149752, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=151615, end=151626, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=154598, end=154609, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=156540, end=156551, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=160237, end=160248, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=162803, end=162814, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=165531, end=165542, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=167904, end=167915, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=169677, end=169688, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=172675, end=172686, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=174857, end=174868, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=177193, end=177204, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=179361, end=179372, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=181518, end=181529, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=183599, end=183610, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=186326, end=186337, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=188492, end=188503, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=190659, end=190670, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=192926, end=192937, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=194775, end=194786, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=197633, end=197644, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=199903, end=199914, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=201687, end=201698, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=203964, end=203975, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=205656, end=205667, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=207854, end=207865, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=209805, end=209816, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=211568, end=211579, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=213406, end=213417, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=215069, end=215080, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=216939, end=216950, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=218918, end=218929, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=220929, end=220940, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=222990, end=223001, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=224663, end=224674, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=226753, end=226764, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=228237, end=228248, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=232940, end=232951, dist=5, matched=bytearray(b'alth Depart')) FIlename=processed/811.txt
+Match(start=244057, end=244068, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=245606, end=245617, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=245988, end=246000, dist=5, matched=bytearray(b'tests report')) FIlename=processed/811.txt
+Match(start=246550, end=246562, dist=4, matched=bytearray(b'al of report')) FIlename=processed/811.txt
+Match(start=246762, end=246773, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=247369, end=247381, dist=5, matched=bytearray(b'tests report')) FIlename=processed/811.txt
+Match(start=248305, end=248314, dist=5, matched=bytearray(b't) report')) FIlename=processed/811.txt
+Match(start=248401, end=248409, dist=5, matched=bytearray(b't report')) FIlename=processed/811.txt
+Match(start=248463, end=248473, dist=4, matched=bytearray(b' to report')) FIlename=processed/811.txt
+Match(start=248559, end=248570, dist=4, matched=bytearray(b' the report')) FIlename=processed/811.txt
+Match(start=248693, end=248704, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=249176, end=249188, dist=5, matched=bytearray(b'tests report')) FIlename=processed/811.txt
+Match(start=250209, end=250220, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=250669, end=250681, dist=5, matched=bytearray(b'ases  report')) FIlename=processed/811.txt
+Match(start=251479, end=251490, dist=4, matched=bytearray(b'aths report')) FIlename=processed/811.txt
+Match(start=252085, end=252095, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=253389, end=253399, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=254589, end=254599, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=255958, end=255968, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=257281, end=257291, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=258288, end=258298, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=259471, end=259481, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=260327, end=260337, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=261230, end=261240, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=262062, end=262072, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=263001, end=263011, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=264229, end=264239, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=265237, end=265247, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=266486, end=266496, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=267554, end=267564, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=268610, end=268620, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=269626, end=269636, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=270647, end=270657, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=271656, end=271666, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=272709, end=272719, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=273786, end=273796, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=274788, end=274798, dist=5, matched=bytearray(b'ts) report')) FIlename=processed/811.txt
+Match(start=275773, end=275784, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=276701, end=276712, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=277693, end=277704, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=278638, end=278649, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=279688, end=279699, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=280742, end=280753, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=281896, end=281907, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=283135, end=283146, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=284057, end=284068, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=284988, end=284999, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=285983, end=285994, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=286924, end=286935, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=287868, end=287879, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=288974, end=288985, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=290057, end=290068, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=290932, end=290943, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=291857, end=291868, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=292729, end=292740, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=293669, end=293680, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=294495, end=294506, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=295539, end=295550, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=296466, end=296477, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=297347, end=297358, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=298226, end=298237, dist=5, matched=bytearray(b'ases report')) FIlename=processed/811.txt
+Match(start=1392, end=1406, dist=5, matched=bytearray(b'another report')) FIlename=processed/829.txt
+Match(start=2935, end=2946, dist=5, matched=bytearray(b' its report')) FIlename=processed/855.txt
+Match(start=3246, end=3255, dist=5, matched=bytearray(b'al report')) FIlename=processed/855.txt
+Match(start=9312, end=9326, dist=5, matched=bytearray(b'abled a report')) FIlename=processed/855.txt
+Match(start=21530, end=21541, dist=5, matched=bytearray(b'at the prot')) FIlename=processed/855.txt
+Match(start=25063, end=25074, dist=4, matched=bytearray(b'aths report')) FIlename=processed/855.txt
+Match(start=25694, end=25708, dist=5, matched=bytearray(b'ath was report')) FIlename=processed/855.txt
+Match(start=30832, end=30840, dist=5, matched=bytearray(b'a report')) FIlename=processed/855.txt
+Match(start=32633, end=32641, dist=5, matched=bytearray(b'a report')) FIlename=processed/855.txt
+Match(start=33162, end=33170, dist=5, matched=bytearray(b'a report')) FIlename=processed/855.txt
+Match(start=33813, end=33821, dist=5, matched=bytearray(b'a report')) FIlename=processed/855.txt
+Match(start=34017, end=34028, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=34580, end=34588, dist=5, matched=bytearray(b'a report')) FIlename=processed/855.txt
+Match(start=34767, end=34778, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=37075, end=37086, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=37549, end=37560, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=38290, end=38301, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=38721, end=38732, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=39484, end=39495, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=40181, end=40192, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=40967, end=40978, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=41475, end=41486, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=42055, end=42066, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=42647, end=42658, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=43626, end=43637, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=44190, end=44201, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=44721, end=44732, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=45248, end=45259, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=45755, end=45766, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=46261, end=46272, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=46832, end=46843, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=47353, end=47364, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=47875, end=47886, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=48389, end=48400, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=48883, end=48894, dist=5, matched=bytearray(b'ases report')) FIlename=processed/855.txt
+Match(start=3564, end=3578, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/857.txt
+Match(start=814, end=828, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/858.txt
+Match(start=10837, end=10848, dist=5, matched=bytearray(b'ases report')) FIlename=processed/871.txt
+Match(start=11164, end=11175, dist=5, matched=bytearray(b'ases report')) FIlename=processed/871.txt
+Match(start=11851, end=11862, dist=4, matched=bytearray(b'aths report')) FIlename=processed/871.txt
+Match(start=17823, end=17833, dist=5, matched=bytearray(b'any report')) FIlename=processed/871.txt
+Match(start=570, end=581, dist=4, matched=bytearray(b'th a report')) FIlename=processed/876.txt
+Match(start=1073, end=1083, dist=5, matched=bytearray(b' that port')) FIlename=processed/892.txt
+Match(start=1669, end=1682, dist=5, matched=bytearray(b'at the artist')) FIlename=processed/892.txt
+Match(start=7293, end=7302, dist=5, matched=bytearray(b'as report')) FIlename=processed/894.txt
+Match(start=8464, end=8478, dist=5, matched=bytearray(b'ath was report')) FIlename=processed/894.txt
+Match(start=5823, end=5833, dist=5, matched=bytearray(b'and report')) FIlename=processed/896.txt
+Match(start=9097, end=9106, dist=5, matched=bytearray(b'as report')) FIlename=processed/905.txt
+Match(start=13002, end=13015, dist=5, matched=bytearray(b'al was report')) FIlename=processed/905.txt
+Match(start=8534, end=8548, dist=5, matched=bytearray(b'ath was report')) FIlename=processed/911.txt
+Match(start=3126, end=3136, dist=5, matched=bytearray(b'at the ori')) FIlename=processed/940.txt
+Match(start=2910, end=2922, dist=5, matched=bytearray(b' the airport')) FIlename=processed/941.txt
+Match(start=3095, end=3109, dist=3, matched=bytearray(b'at the airport')) FIlename=processed/941.txt
+Match(start=3836, end=3850, dist=5, matched=bytearray(b'to the airport')) FIlename=processed/941.txt
+Match(start=882, end=894, dist=5, matched=bytearray(b'at the front')) FIlename=processed/952.txt
+Match(start=1218, end=1232, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/957.txt
+Match(start=256, end=264, dist=5, matched=bytearray(b'h report')) FIlename=processed/958.txt
+Match(start=1250, end=1259, dist=5, matched=bytearray(b'as report')) FIlename=processed/961.txt
+Match(start=472, end=486, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/965.txt
+Match(start=1167, end=1181, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/974.txt
+Match(start=1426, end=1440, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/974.txt
+Match(start=376, end=386, dist=5, matched=bytearray(b'am, report')) FIlename=processed/977.txt
+Match(start=563, end=573, dist=5, matched=bytearray(b'are report')) FIlename=processed/977.txt
+Match(start=894, end=904, dist=5, matched=bytearray(b'are report')) FIlename=processed/977.txt
+Match(start=2041, end=2049, dist=5, matched=bytearray(b't report')) FIlename=processed/979.txt
+Match(start=2532, end=2546, dist=5, matched=bytearray(b'at the age of ')) FIlename=processed/979.txt
+Match(start=884, end=895, dist=5, matched=bytearray(b'tial report')) FIlename=processed/989.txt

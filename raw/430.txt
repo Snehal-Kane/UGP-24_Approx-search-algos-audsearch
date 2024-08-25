@@ -1,0 +1,20 @@
+Metyltetraprole is a quinone outside inhibitor fungicide sold under the brand name Pavecto by its inventor, Sumitomo Chemical. It is the only tetrazolinone fungicide and the only one in the Fungicide Resistance Action Committee's subgroup 11A.
+
+Development
+Metyltetraprole was developed specifically to find an a.i. with the same mode of action (a QI) but with sufficiently different chemistry as to avoid "critical" QI resistance increasing around the world.
+
+Target pathogens
+Metyltetraprole is highly effective against Alternaria triticina.
+
+Resistance
+Developed because of increasing resistance to the main group of QIs. See Development above.
+
+Cross-resistance
+It does not suffer cross-resistance with the resistance against 11 conferred by the cytochrome b mutation G143A. Cross-resistance against F129L is unassessed.
+
+References
+
+Fungicides
+Tetrazoles
+Chloroarenes
+Pyrazoles

@@ -1,0 +1,2179 @@
+
+
+554001–554100 
+
+|-bgcolor=#E9E9E9
+| 554001 ||  || — || July 31, 2014 || Haleakala || Pan-STARRS ||  || align=right | 12 km || 
+|-id=002 bgcolor=#E9E9E9
+| 554002 ||  || — || March 31, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 11 km || 
+|-id=003 bgcolor=#d6d6d6
+| 554003 ||  || — || March 28, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=004 bgcolor=#E9E9E9
+| 554004 ||  || — || March 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 14 km || 
+|-id=005 bgcolor=#E9E9E9
+| 554005 ||  || — || March 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 14 km || 
+|-id=006 bgcolor=#d6d6d6
+| 554006 ||  || — || March 17, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=007 bgcolor=#E9E9E9
+| 554007 ||  || — || March 21, 2012 || Catalina || CSS ||  || align=right | 22 km || 
+|-id=008 bgcolor=#E9E9E9
+| 554008 ||  || — || March 24, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 15 km || 
+|-id=009 bgcolor=#fefefe
+| 554009 ||  || — || October 5, 2005 || Catalina || CSS || H || align=right data-sort-value="047" | 470 m || 
+|-id=010 bgcolor=#E9E9E9
+| 554010 ||  || — || January 27, 2007 || Kitt Peak || Spacewatch ||  || align=right | 12 km || 
+|-id=011 bgcolor=#E9E9E9
+| 554011 ||  || — || August 20, 2004 || Kitt Peak || Spacewatch ||  || align=right | 15 km || 
+|-id=012 bgcolor=#E9E9E9
+| 554012 ||  || — || April 15, 2012 || Haleakala || Pan-STARRS ||  || align=right | 13 km || 
+|-id=013 bgcolor=#E9E9E9
+| 554013 ||  || — || January 30, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=014 bgcolor=#E9E9E9
+| 554014 ||  || — || January 5, 2012 || Haleakala || Pan-STARRS ||  || align=right | 14 km || 
+|-id=015 bgcolor=#E9E9E9
+| 554015 ||  || — || April 15, 2012 || Haleakala || Pan-STARRS ||  || align=right | 15 km || 
+|-id=016 bgcolor=#E9E9E9
+| 554016 ||  || — || April 15, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="079" | 790 m || 
+|-id=017 bgcolor=#fefefe
+| 554017 ||  || — || April 12, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="050" | 500 m || 
+|-id=018 bgcolor=#E9E9E9
+| 554018 ||  || — || April 15, 2012 || Haleakala || Pan-STARRS ||  || align=right | 18 km || 
+|-id=019 bgcolor=#fefefe
+| 554019 ||  || — || April 13, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="063" | 630 m || 
+|-id=020 bgcolor=#d6d6d6
+| 554020 ||  || — || April 13, 2012 || Haleakala || Pan-STARRS ||  || align=right | 29 km || 
+|-id=021 bgcolor=#E9E9E9
+| 554021 ||  || — || October 26, 2009 || Kitt Peak || Spacewatch ||  || align=right | 14 km || 
+|-id=022 bgcolor=#E9E9E9
+| 554022 ||  || — || April 17, 2012 || Kitt Peak || Spacewatch ||  || align=right | 13 km || 
+|-id=023 bgcolor=#d6d6d6
+| 554023 ||  || — || February 8, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 30 km || 
+|-id=024 bgcolor=#E9E9E9
+| 554024 ||  || — || August 31, 2005 || Palomar || NEAT ||  || align=right | 19 km || 
+|-id=025 bgcolor=#E9E9E9
+| 554025 ||  || — || April 12, 2012 || Mayhill-ISON || L Elenin ||  || align=right | 1.
+3 km || 
+|-id=026 bgcolor=#E9E9E9
+| 554026 ||  || — || April 20, 2012 || Kitt Peak || Pan-STARRS ||  || align=right | 19 km || 
+|-id=027 bgcolor=#E9E9E9
+| 554027 ||  || — || February 29, 2012 || Kitt Peak || Spacewatch ||  || align=right | 12 km || 
+|-id=028 bgcolor=#E9E9E9
+| 554028 ||  || — || April 21, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="096" | 960 m || 
+|-id=029 bgcolor=#fefefe
+| 554029 ||  || — || March 28, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="058" | 580 m || 
+|-id=030 bgcolor=#E9E9E9
+| 554030 ||  || — || April 25, 2012 || Kitt Peak || Spacewatch ||  || align=right | 20 km || 
+|-id=031 bgcolor=#E9E9E9
+| 554031 ||  || — || April 27, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=032 bgcolor=#E9E9E9
+| 554032 ||  || — || August 6, 2008 || Siding Spring || SSS ||  || align=right | 28 km || 
+|-id=033 bgcolor=#E9E9E9
+| 554033 ||  || — || April 20, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 15 km || 
+|-id=034 bgcolor=#E9E9E9
+| 554034 ||  || — || April 20, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=035 bgcolor=#E9E9E9
+| 554035 ||  || — || April 21, 2012 || Haleakala || Pan-STARRS ||  || align=right | 20 km || 
+|-id=036 bgcolor=#E9E9E9
+| 554036 ||  || — || March 29, 2012 || Haleakala || Pan-STARRS || EUN || align=right data-sort-value="098" | 980 m || 
+|-id=037 bgcolor=#E9E9E9
+| 554037 ||  || — || February 6, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 13 km || 
+|-id=038 bgcolor=#E9E9E9
+| 554038 ||  || — || February 22, 2003 || Palomar || NEAT ||  || align=right | 18 km || 
+|-id=039 bgcolor=#E9E9E9
+| 554039 ||  || — || April 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=040 bgcolor=#E9E9E9
+| 554040 ||  || — || September 15, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=041 bgcolor=#E9E9E9
+| 554041 ||  || — || March 27, 2012 || Kitt Peak || Spacewatch ||  || align=right | 14 km || 
+|-id=042 bgcolor=#E9E9E9
+| 554042 ||  || — || April 27, 2012 || Haleakala || Pan-STARRS ||  || align=right | 10 km || 
+|-id=043 bgcolor=#E9E9E9
+| 554043 ||  || — || April 27, 2012 || Haleakala || Pan-STARRS ||  || align=right | 16 km || 
+|-id=044 bgcolor=#E9E9E9
+| 554044 ||  || — || April 22, 2012 || Kitt Peak || Spacewatch ||  || align=right | 18 km || 
+|-id=045 bgcolor=#E9E9E9
+| 554045 ||  || — || April 18, 2012 || Kitt Peak || Spacewatch ||  || align=right | 16 km || 
+|-id=046 bgcolor=#fefefe
+| 554046 ||  || — || April 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="068" | 680 m || 
+|-id=047 bgcolor=#E9E9E9
+| 554047 ||  || — || April 27, 2012 || Kitt Peak || Spacewatch ||  || align=right | 13 km || 
+|-id=048 bgcolor=#E9E9E9
+| 554048 ||  || — || March 15, 2007 || Mount Lemmon || Mount Lemmon Survey || MRX || align=right data-sort-value="068" | 680 m || 
+|-id=049 bgcolor=#E9E9E9
+| 554049 ||  || — || February 10, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=050 bgcolor=#E9E9E9
+| 554050 ||  || — || May 2, 2012 || Cerro Tololo || Spacewatch ||  || align=right | 12 km || 
+|-id=051 bgcolor=#E9E9E9
+| 554051 ||  || — || January 6, 2012 || Haleakala || Pan-STARRS ||  || align=right | 17 km || 
+|-id=052 bgcolor=#E9E9E9
+| 554052 ||  || — || January 30, 2011 || Piszkesteto || Z Kuli, K.
+ Sárneczky || EUN || align=right | 1.
+6 km || 
+|-id=053 bgcolor=#E9E9E9
+| 554053 ||  || — || May 25, 2003 || Kitt Peak || Spacewatch ||  || align=right | 18 km || 
+|-id=054 bgcolor=#E9E9E9
+| 554054 ||  || — || June 30, 2008 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=055 bgcolor=#E9E9E9
+| 554055 ||  || — || November 16, 2001 || Kitt Peak || Spacewatch ||  || align=right | 26 km || 
+|-id=056 bgcolor=#E9E9E9
+| 554056 ||  || — || May 12, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=057 bgcolor=#fefefe
+| 554057 ||  || — || August 28, 2006 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="064" | 640 m || 
+|-id=058 bgcolor=#d6d6d6
+| 554058 ||  || — || February 8, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=059 bgcolor=#E9E9E9
+| 554059 ||  || — || May 14, 2012 || Haleakala || Pan-STARRS ||  || align=right | 20 km || 
+|-id=060 bgcolor=#E9E9E9
+| 554060 ||  || — || April 28, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=061 bgcolor=#E9E9E9
+| 554061 ||  || — || May 14, 2012 || Haleakala || Pan-STARRS ||  || align=right | 15 km || 
+|-id=062 bgcolor=#E9E9E9
+| 554062 ||  || — || April 17, 2012 || Kitt Peak || Spacewatch ||  || align=right | 15 km || 
+|-id=063 bgcolor=#E9E9E9
+| 554063 ||  || — || March 10, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=064 bgcolor=#E9E9E9
+| 554064 ||  || — || May 12, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="098" | 980 m || 
+|-id=065 bgcolor=#E9E9E9
+| 554065 ||  || — || September 23, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=066 bgcolor=#E9E9E9
+| 554066 ||  || — || May 12, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=067 bgcolor=#E9E9E9
+| 554067 ||  || — || June 14, 2004 || Kitt Peak || Spacewatch ||  || align=right | 11 km || 
+|-id=068 bgcolor=#fefefe
+| 554068 ||  || — || January 24, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 10 km || 
+|-id=069 bgcolor=#fefefe
+| 554069 ||  || — || January 28, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="060" | 600 m || 
+|-id=070 bgcolor=#E9E9E9
+| 554070 ||  || — || January 27, 2011 || Kitt Peak || Spacewatch ||  || align=right | 19 km || 
+|-id=071 bgcolor=#fefefe
+| 554071 ||  || — || November 11, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="066" | 660 m || 
+|-id=072 bgcolor=#E9E9E9
+| 554072 ||  || — || February 7, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 16 km || 
+|-id=073 bgcolor=#E9E9E9
+| 554073 ||  || — || October 14, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=074 bgcolor=#fefefe
+| 554074 ||  || — || May 15, 2012 || Haleakala || Pan-STARRS || H || align=right data-sort-value="062" | 620 m || 
+|-id=075 bgcolor=#E9E9E9
+| 554075 ||  || — || May 14, 2012 || Haleakala || Pan-STARRS ||  || align=right | 19 km || 
+|-id=076 bgcolor=#E9E9E9
+| 554076 ||  || — || February 21, 2007 || Kitt Peak || Spacewatch ||  || align=right | 16 km || 
+|-id=077 bgcolor=#d6d6d6
+| 554077 ||  || — || April 28, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=078 bgcolor=#E9E9E9
+| 554078 ||  || — || March 23, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=079 bgcolor=#E9E9E9
+| 554079 ||  || — || November 1, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 31 km || 
+|-id=080 bgcolor=#E9E9E9
+| 554080 ||  || — || May 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=081 bgcolor=#E9E9E9
+| 554081 ||  || — || September 6, 2004 || Palomar || NEAT ||  || align=right | 11 km || 
+|-id=082 bgcolor=#E9E9E9
+| 554082 ||  || — || September 24, 2004 || Kitt Peak || Spacewatch ||  || align=right | 16 km || 
+|-id=083 bgcolor=#E9E9E9
+| 554083 ||  || — || May 20, 2012 || Charleston || R Holmes ||  || align=right | 1.
+7 km || 
+|-id=084 bgcolor=#E9E9E9
+| 554084 ||  || — || March 31, 2003 || Cerro Tololo || Cerro Tololo Obs ||  || align=right | 1.
+2 km || 
+|-id=085 bgcolor=#E9E9E9
+| 554085 ||  || — || April 24, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=086 bgcolor=#E9E9E9
+| 554086 ||  || — || May 20, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=087 bgcolor=#E9E9E9
+| 554087 ||  || — || March 10, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=088 bgcolor=#E9E9E9
+| 554088 ||  || — || April 27, 2012 || Kitt Peak || Pan-STARRS ||  || align=right | 20 km || 
+|-id=089 bgcolor=#E9E9E9
+| 554089 ||  || — || February 5, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 16 km || 
+|-id=090 bgcolor=#fefefe
+| 554090 ||  || — || April 15, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="059" | 590 m || 
+|-id=091 bgcolor=#E9E9E9
+| 554091 ||  || — || May 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 16 km || 
+|-id=092 bgcolor=#E9E9E9
+| 554092 ||  || — || June 12, 2008 || Kitt Peak || Spacewatch ||  || align=right | 12 km || 
+|-id=093 bgcolor=#E9E9E9
+| 554093 ||  || — || May 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 11 km || 
+|-id=094 bgcolor=#E9E9E9
+| 554094 ||  || — || September 17, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=095 bgcolor=#fefefe
+| 554095 ||  || — || June 15, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="053" | 530 m || 
+|-id=096 bgcolor=#E9E9E9
+| 554096 ||  || — || September 16, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="067" | 670 m || 
+|-id=097 bgcolor=#E9E9E9
+| 554097 ||  || — || February 8, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 15 km || 
+|-id=098 bgcolor=#E9E9E9
+| 554098 ||  || — || May 22, 2012 || ESA OGS || ESA OGS ||  || align=right | 21 km || 
+|-id=099 bgcolor=#C2E0FF
+| 554099 ||  || — || May 18, 2012 || La Silla || La Silla Obs || other TNOcritical || align=right | 236 km || 
+|-id=100 bgcolor=#E9E9E9
+| 554100 ||  || — || May 5, 2003 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|}
+
+554101–554200 
+
+|-bgcolor=#E9E9E9
+| 554101 ||  || — || April 28, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=102 bgcolor=#C2E0FF
+| 554102 ||  || — || January 11, 2011 || Haleakala || Pan-STARRS || twotinocritical || align=right | 227 km || 
+|-id=103 bgcolor=#E9E9E9
+| 554103 ||  || — || February 14, 2016 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=104 bgcolor=#d6d6d6
+| 554104 ||  || — || November 23, 2014 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=105 bgcolor=#E9E9E9
+| 554105 ||  || — || May 21, 2012 || Haleakala || Pan-STARRS ||  || align=right | 28 km || 
+|-id=106 bgcolor=#E9E9E9
+| 554106 ||  || — || August 14, 2013 || Haleakala || Pan-STARRS ||  || align=right | 18 km || 
+|-id=107 bgcolor=#d6d6d6
+| 554107 ||  || — || May 28, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=108 bgcolor=#d6d6d6
+| 554108 ||  || — || May 22, 2012 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=109 bgcolor=#fefefe
+| 554109 ||  || — || May 18, 2012 || Kitt Peak || Spacewatch || H || align=right data-sort-value="066" | 660 m || 
+|-id=110 bgcolor=#fefefe
+| 554110 ||  || — || May 21, 2012 || Haleakala || Pan-STARRS || H || align=right data-sort-value="067" | 670 m || 
+|-id=111 bgcolor=#E9E9E9
+| 554111 ||  || — || June 12, 2012 || Haleakala || Pan-STARRS ||  || align=right | 17 km || 
+|-id=112 bgcolor=#d6d6d6
+| 554112 ||  || — || September 26, 2003 || Apache Point || SDSS Collaboration ||  || align=right | 32 km || 
+|-id=113 bgcolor=#E9E9E9
+| 554113 ||  || — || December 10, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=114 bgcolor=#d6d6d6
+| 554114 ||  || — || February 6, 2006 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=115 bgcolor=#E9E9E9
+| 554115 ||  || — || June 15, 2012 || Haleakala || Pan-STARRS ||  || align=right | 20 km || 
+|-id=116 bgcolor=#E9E9E9
+| 554116 ||  || — || June 14, 2012 || Oukaimeden || C Rinner ||  || align=right | 2.
+5 km || 
+|-id=117 bgcolor=#E9E9E9
+| 554117 ||  || — || May 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=118 bgcolor=#E9E9E9
+| 554118 ||  || — || January 6, 2010 || Kitt Peak || Spacewatch ||  || align=right | 27 km || 
+|-id=119 bgcolor=#d6d6d6
+| 554119 ||  || — || November 24, 2002 || Palomar || NEAT ||  || align=right | 30 km || 
+|-id=120 bgcolor=#E9E9E9
+| 554120 ||  || — || April 25, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 14 km || 
+|-id=121 bgcolor=#d6d6d6
+| 554121 ||  || — || October 23, 2008 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=122 bgcolor=#d6d6d6
+| 554122 ||  || — || June 17, 2012 || Palomar || Mount Lemmon Survey ||  || align=right | 39 km || 
+|-id=123 bgcolor=#C2FFFF
+| 554123 ||  || — || June 21, 2012 || Mount Lemmon || Mount Lemmon Survey || L5 || align=right | 74 km || 
+|-id=124 bgcolor=#d6d6d6
+| 554124 ||  || — || October 2, 2008 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=125 bgcolor=#fefefe
+| 554125 ||  || — || June 16, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="063" | 630 m || 
+|-id=126 bgcolor=#FFC2E0
+| 554126 ||  || — || July 13, 2012 || Socorro || LINEAR || AMO || align=right data-sort-value="019" | 190 m || 
+|-id=127 bgcolor=#E9E9E9
+| 554127 ||  || — || April 16, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=128 bgcolor=#d6d6d6
+| 554128 ||  || — || September 29, 2003 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=129 bgcolor=#d6d6d6
+| 554129 ||  || — || July 21, 2012 || Charleston || R Holmes ||  || align=right | 2.
+2 km || 
+|-id=130 bgcolor=#d6d6d6
+| 554130 ||  || — || August 7, 2012 || Palomar || P Kocher ||  || align=right | 3.
+8 km || 
+|-id=131 bgcolor=#d6d6d6
+| 554131 ||  || — || August 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 26 km || 
+|-id=132 bgcolor=#fefefe
+| 554132 ||  || — || February 13, 2010 || Calvin-Rehoboth || L A.
+ Molnar ||  || align=right data-sort-value="0.
+73" | 730 m || 
+|-id=133 bgcolor=#d6d6d6
+| 554133 ||  || — || August 11, 2012 || Charleston || R Holmes ||  || align=right | 2.
+9 km || 
+|-id=134 bgcolor=#d6d6d6
+| 554134 ||  || — || August 12, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=135 bgcolor=#E9E9E9
+| 554135 ||  || — || February 20, 2006 || Kitt Peak || Spacewatch ||  || align=right | 21 km || 
+|-id=136 bgcolor=#fefefe
+| 554136 ||  || — || November 8, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="040" | 400 m || 
+|-id=137 bgcolor=#E9E9E9
+| 554137 ||  || — || February 10, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 14 km || 
+|-id=138 bgcolor=#FA8072
+| 554138 ||  || — || July 11, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="059" | 590 m || 
+|-id=139 bgcolor=#E9E9E9
+| 554139 ||  || — || November 26, 2003 || Socorro || LINEAR ||  || align=right | 37 km || 
+|-id=140 bgcolor=#fefefe
+| 554140 ||  || — || August 11, 2012 || Siding Spring || SSS ||  || align=right data-sort-value="072" | 720 m || 
+|-id=141 bgcolor=#E9E9E9
+| 554141 ||  || — || August 26, 2003 || Socorro || LINEAR ||  || align=right | 32 km || 
+|-id=142 bgcolor=#d6d6d6
+| 554142 ||  || — || August 23, 2007 || Kitt Peak || Spacewatch ||  || align=right | 32 km || 
+|-id=143 bgcolor=#E9E9E9
+| 554143 ||  || — || August 6, 2012 || Haleakala || Pan-STARRS ||  || align=right | 18 km || 
+|-id=144 bgcolor=#E9E9E9
+| 554144 ||  || — || September 24, 1992 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="072" | 720 m || 
+|-id=145 bgcolor=#d6d6d6
+| 554145 ||  || — || August 13, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=146 bgcolor=#d6d6d6
+| 554146 ||  || — || September 9, 2007 || Kitt Peak || Spacewatch ||  || align=right | 26 km || 
+|-id=147 bgcolor=#d6d6d6
+| 554147 ||  || — || August 14, 2012 || Haleakala || Pan-STARRS ||  || align=right | 30 km || 
+|-id=148 bgcolor=#d6d6d6
+| 554148 ||  || — || December 21, 2014 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=149 bgcolor=#d6d6d6
+| 554149 ||  || — || January 26, 2015 || Haleakala || Pan-STARRS ||  || align=right | 18 km || 
+|-id=150 bgcolor=#d6d6d6
+| 554150 ||  || — || August 14, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=151 bgcolor=#d6d6d6
+| 554151 ||  || — || August 14, 2012 || Haleakala || Pan-STARRS ||  || align=right | 19 km || 
+|-id=152 bgcolor=#d6d6d6
+| 554152 ||  || — || September 4, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=153 bgcolor=#d6d6d6
+| 554153 ||  || — || August 16, 2012 || ESA OGS || ESA OGS ||  || align=right | 26 km || 
+|-id=154 bgcolor=#d6d6d6
+| 554154 ||  || — || August 16, 2012 || ESA OGS || ESA OGS ||  || align=right | 30 km || 
+|-id=155 bgcolor=#E9E9E9
+| 554155 ||  || — || October 24, 2005 || Mauna Kea || Mauna Kea Obs ||  || align=right | 2.
+4 km || 
+|-id=156 bgcolor=#d6d6d6
+| 554156 ||  || — || September 14, 2007 || Kitt Peak || Spacewatch ||  || align=right | 20 km || 
+|-id=157 bgcolor=#d6d6d6
+| 554157 ||  || — || August 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=158 bgcolor=#d6d6d6
+| 554158 ||  || — || June 4, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 41 km || 
+|-id=159 bgcolor=#fefefe
+| 554159 ||  || — || September 3, 2005 || Palomar || NEAT ||  || align=right data-sort-value="083" | 830 m || 
+|-id=160 bgcolor=#d6d6d6
+| 554160 ||  || — || August 21, 2012 || Haleakala || Pan-STARRS ||  || align=right | 33 km || 
+|-id=161 bgcolor=#d6d6d6
+| 554161 ||  || — || October 6, 2002 || Palomar || NEAT ||  || align=right | 29 km || 
+|-id=162 bgcolor=#d6d6d6
+| 554162 ||  || — || August 16, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=163 bgcolor=#d6d6d6
+| 554163 ||  || — || August 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 20 km || 
+|-id=164 bgcolor=#d6d6d6
+| 554164 ||  || — || March 18, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=165 bgcolor=#d6d6d6
+| 554165 ||  || — || August 22, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=166 bgcolor=#C2FFFF
+| 554166 ||  || — || March 20, 2007 || Mount Lemmon || Mount Lemmon Survey || L5 || align=right | 96 km || 
+|-id=167 bgcolor=#C2FFFF
+| 554167 ||  || — || August 24, 2012 || Kitt Peak || Spacewatch || L5 || align=right | 82 km || 
+|-id=168 bgcolor=#fefefe
+| 554168 ||  || — || September 14, 2002 || Palomar || NEAT ||  || align=right data-sort-value="068" | 680 m || 
+|-id=169 bgcolor=#d6d6d6
+| 554169 ||  || — || June 4, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=170 bgcolor=#d6d6d6
+| 554170 ||  || — || August 25, 2012 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=171 bgcolor=#d6d6d6
+| 554171 ||  || — || August 25, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=172 bgcolor=#d6d6d6
+| 554172 ||  || — || August 25, 2012 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=173 bgcolor=#d6d6d6
+| 554173 ||  || — || December 22, 2008 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=174 bgcolor=#d6d6d6
+| 554174 ||  || — || October 31, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=175 bgcolor=#d6d6d6
+| 554175 ||  || — || November 15, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 31 km || 
+|-id=176 bgcolor=#C2FFFF
+| 554176 ||  || — || December 31, 2007 || Kitt Peak || Spacewatch || L5 || align=right | 14 km || 
+|-id=177 bgcolor=#d6d6d6
+| 554177 ||  || — || August 10, 2007 || Kitt Peak || Spacewatch ||  || align=right | 32 km || 
+|-id=178 bgcolor=#d6d6d6
+| 554178 ||  || — || February 18, 2015 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=179 bgcolor=#d6d6d6
+| 554179 ||  || — || April 27, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=180 bgcolor=#fefefe
+| 554180 ||  || — || October 15, 2002 || Palomar || NEAT ||  || align=right data-sort-value="064" | 640 m || 
+|-id=181 bgcolor=#d6d6d6
+| 554181 ||  || — || September 1, 2002 || Palomar || NEAT ||  || align=right | 41 km || 
+|-id=182 bgcolor=#d6d6d6
+| 554182 ||  || — || August 27, 2012 || Haleakala || Pan-STARRS ||  || align=right | 28 km || 
+|-id=183 bgcolor=#fefefe
+| 554183 ||  || — || August 27, 2002 || Palomar || NEAT ||  || align=right data-sort-value="082" | 820 m || 
+|-id=184 bgcolor=#d6d6d6
+| 554184 ||  || — || August 24, 2012 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=185 bgcolor=#d6d6d6
+| 554185 ||  || — || August 17, 2012 || Siding Spring || SSS || Tj (298) || align=right | 3.
+1 km || 
+|-id=186 bgcolor=#d6d6d6
+| 554186 ||  || — || March 5, 2016 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=187 bgcolor=#d6d6d6
+| 554187 ||  || — || August 26, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=188 bgcolor=#d6d6d6
+| 554188 ||  || — || August 25, 2012 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=189 bgcolor=#d6d6d6
+| 554189 ||  || — || August 26, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=190 bgcolor=#E9E9E9
+| 554190 ||  || — || November 28, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=191 bgcolor=#C2FFFF
+| 554191 ||  || — || August 17, 2012 || Haleakala || Pan-STARRS || L5 || align=right | 67 km || 
+|-id=192 bgcolor=#E9E9E9
+| 554192 ||  || — || August 25, 2012 || Kitt Peak || Spacewatch ||  || align=right | 11 km || 
+|-id=193 bgcolor=#d6d6d6
+| 554193 ||  || — || August 13, 2012 || Haleakala || Pan-STARRS ||  || align=right | 18 km || 
+|-id=194 bgcolor=#C2FFFF
+| 554194 ||  || — || August 26, 2012 || Kitt Peak || Spacewatch || L5 || align=right | 69 km || 
+|-id=195 bgcolor=#d6d6d6
+| 554195 ||  || — || August 26, 2012 || Haleakala || Pan-STARRS ||  || align=right | 26 km || 
+|-id=196 bgcolor=#fefefe
+| 554196 ||  || — || September 4, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="096" | 960 m || 
+|-id=197 bgcolor=#d6d6d6
+| 554197 ||  || — || September 7, 2012 || Crni Vrh || H Mikuž ||  || align=right | 4.
+7 km || 
+|-id=198 bgcolor=#d6d6d6
+| 554198 ||  || — || August 26, 2012 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=199 bgcolor=#d6d6d6
+| 554199 ||  || — || September 13, 2012 || Catalina || CSS ||  || align=right | 32 km || 
+|-id=200 bgcolor=#FA8072
+| 554200 ||  || — || November 25, 2005 || Palomar || NEAT || PHO || align=right data-sort-value="089" | 890 m || 
+|}
+
+554201–554300 
+
+|-bgcolor=#d6d6d6
+| 554201 ||  || — || February 1, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 32 km || 
+|-id=202 bgcolor=#d6d6d6
+| 554202 ||  || — || September 11, 2012 || ASC-Kislovodsk || ASC-Kislovodsk ||  || align=right | 33 km || 
+|-id=203 bgcolor=#d6d6d6
+| 554203 ||  || — || September 13, 2012 || Charleston || R Holmes ||  || align=right | 1.
+9 km || 
+|-id=204 bgcolor=#fefefe
+| 554204 ||  || — || November 28, 2002 || Haleakala || AMOS ||  || align=right | 10 km || 
+|-id=205 bgcolor=#d6d6d6
+| 554205 ||  || — || September 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=206 bgcolor=#d6d6d6
+| 554206 ||  || — || September 15, 2012 || Alder Springs || K Levin ||  || align=right | 2.
+2 km || 
+|-id=207 bgcolor=#C2FFFF
+| 554207 ||  || — || September 14, 2012 || Catalina || CSS || L5 || align=right | 10 km || 
+|-id=208 bgcolor=#d6d6d6
+| 554208 ||  || — || January 18, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=209 bgcolor=#d6d6d6
+| 554209 ||  || — || September 14, 2007 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=210 bgcolor=#E9E9E9
+| 554210 ||  || — || September 30, 2003 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=211 bgcolor=#fefefe
+| 554211 ||  || — || September 21, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="050" | 500 m || 
+|-id=212 bgcolor=#fefefe
+| 554212 ||  || — || September 22, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="067" | 670 m || 
+|-id=213 bgcolor=#d6d6d6
+| 554213 ||  || — || March 10, 2010 || Moletai || K Černis, J.
+ Zdanavičius || BRA || align=right | 1.
+7 km || 
+|-id=214 bgcolor=#d6d6d6
+| 554214 ||  || — || July 21, 2006 || Catalina || CSS || TIR || align=right | 42 km || 
+|-id=215 bgcolor=#d6d6d6
+| 554215 ||  || — || August 26, 2012 || Haleakala || Pan-STARRS ||  || align=right | 27 km || 
+|-id=216 bgcolor=#FA8072
+| 554216 ||  || — || April 22, 2002 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="045" | 450 m || 
+|-id=217 bgcolor=#fefefe
+| 554217 ||  || — || November 17, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="065" | 650 m || 
+|-id=218 bgcolor=#d6d6d6
+| 554218 ||  || — || July 22, 2001 || Palomar || NEAT ||  || align=right | 32 km || 
+|-id=219 bgcolor=#E9E9E9
+| 554219 ||  || — || July 1, 2003 || Anderson Mesa || LONEOS ||  || align=right | 27 km || 
+|-id=220 bgcolor=#d6d6d6
+| 554220 ||  || — || September 15, 2012 || ESA OGS || ESA OGS ||  || align=right | 21 km || 
+|-id=221 bgcolor=#d6d6d6
+| 554221 ||  || — || March 16, 2004 || Kitt Peak || Spacewatch ||  || align=right | 31 km || 
+|-id=222 bgcolor=#d6d6d6
+| 554222 ||  || — || October 18, 2001 || Socorro || LINEAR ||  || align=right | 26 km || 
+|-id=223 bgcolor=#fefefe
+| 554223 ||  || — || September 12, 2012 || Siding Spring || SSS ||  || align=right data-sort-value="086" | 860 m || 
+|-id=224 bgcolor=#fefefe
+| 554224 ||  || — || September 14, 2012 || Catalina || CSS ||  || align=right data-sort-value="063" | 630 m || 
+|-id=225 bgcolor=#d6d6d6
+| 554225 ||  || — || January 26, 2015 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=226 bgcolor=#d6d6d6
+| 554226 ||  || — || January 1, 2009 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=227 bgcolor=#d6d6d6
+| 554227 ||  || — || August 14, 2006 || Palomar || NEAT ||  || align=right | 32 km || 
+|-id=228 bgcolor=#C2FFFF
+| 554228 ||  || — || August 2, 2011 || Haleakala || Pan-STARRS || L5 || align=right | 12 km || 
+|-id=229 bgcolor=#d6d6d6
+| 554229 ||  || — || August 25, 2012 || Haleakala || Pan-STARRS ||  || align=right | 28 km || 
+|-id=230 bgcolor=#d6d6d6
+| 554230 ||  || — || January 27, 2009 || Cerro Burek || Alianza S4 Obs ||  || align=right | 2.
+6 km || 
+|-id=231 bgcolor=#d6d6d6
+| 554231 ||  || — || March 10, 2005 || Kitt Peak || M W.
+ Buie, L.
+ H.
+ Wasserman ||  || align=right | 2.
+4 km || 
+|-id=232 bgcolor=#d6d6d6
+| 554232 ||  || — || August 28, 2006 || Catalina || CSS ||  || align=right | 30 km || 
+|-id=233 bgcolor=#d6d6d6
+| 554233 ||  || — || September 17, 2012 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=234 bgcolor=#C2FFFF
+| 554234 ||  || — || April 20, 2009 || Kitt Peak || Spacewatch || L5 || align=right | 87 km || 
+|-id=235 bgcolor=#d6d6d6
+| 554235 ||  || — || September 18, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=236 bgcolor=#d6d6d6
+| 554236 ||  || — || October 11, 2007 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=237 bgcolor=#E9E9E9
+| 554237 ||  || — || August 23, 2003 || Cerro Tololo || Cerro Tololo Obs ||  || align=right | 1.
+3 km || 
+|-id=238 bgcolor=#fefefe
+| 554238 ||  || — || August 28, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="052" | 520 m || 
+|-id=239 bgcolor=#d6d6d6
+| 554239 ||  || — || August 24, 2006 || La Canada || J Lacruz || THM || align=right | 2.
+2 km || 
+|-id=240 bgcolor=#d6d6d6
+| 554240 ||  || — || August 11, 2012 || Kitt Peak || R Holmes || EOS || align=right | 2.
+1 km || 
+|-id=241 bgcolor=#d6d6d6
+| 554241 ||  || — || March 18, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=242 bgcolor=#d6d6d6
+| 554242 ||  || — || August 26, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=243 bgcolor=#fefefe
+| 554243 ||  || — || September 18, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="051" | 510 m || 
+|-id=244 bgcolor=#d6d6d6
+| 554244 ||  || — || October 12, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=245 bgcolor=#d6d6d6
+| 554245 ||  || — || September 18, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=246 bgcolor=#d6d6d6
+| 554246 ||  || — || January 1, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=247 bgcolor=#fefefe
+| 554247 ||  || — || December 20, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="050" | 500 m || 
+|-id=248 bgcolor=#d6d6d6
+| 554248 ||  || — || October 10, 2007 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=249 bgcolor=#d6d6d6
+| 554249 ||  || — || May 23, 2001 || Cerro Tololo || J L.
+ Elliot, L.
+ H.
+ Wasserman || THM || align=right | 2.
+0 km || 
+|-id=250 bgcolor=#d6d6d6
+| 554250 ||  || — || October 15, 2001 || Palomar || NEAT ||  || align=right | 27 km || 
+|-id=251 bgcolor=#d6d6d6
+| 554251 ||  || — || September 23, 2012 || Charleston || R Holmes ||  || align=right | 2.
+7 km || 
+|-id=252 bgcolor=#fefefe
+| 554252 ||  || — || October 26, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="066" | 660 m || 
+|-id=253 bgcolor=#d6d6d6
+| 554253 ||  || — || September 15, 2007 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=254 bgcolor=#d6d6d6
+| 554254 ||  || — || October 4, 2007 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=255 bgcolor=#d6d6d6
+| 554255 ||  || — || October 10, 2001 || Palomar || NEAT ||  || align=right | 28 km || 
+|-id=256 bgcolor=#fefefe
+| 554256 ||  || — || September 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="064" | 640 m || 
+|-id=257 bgcolor=#d6d6d6
+| 554257 ||  || — || June 21, 2006 || Catalina || CSS ||  || align=right | 40 km || 
+|-id=258 bgcolor=#fefefe
+| 554258 ||  || — || August 26, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="057" | 570 m || 
+|-id=259 bgcolor=#d6d6d6
+| 554259 ||  || — || September 25, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=260 bgcolor=#d6d6d6
+| 554260 ||  || — || September 24, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=261 bgcolor=#fefefe
+| 554261 ||  || — || September 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="075" | 750 m || 
+|-id=262 bgcolor=#d6d6d6
+| 554262 ||  || — || September 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 32 km || 
+|-id=263 bgcolor=#fefefe
+| 554263 ||  || — || September 21, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="063" | 630 m || 
+|-id=264 bgcolor=#d6d6d6
+| 554264 ||  || — || September 13, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=265 bgcolor=#fefefe
+| 554265 ||  || — || April 20, 2015 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="083" | 830 m || 
+|-id=266 bgcolor=#fefefe
+| 554266 ||  || — || September 17, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="065" | 650 m || 
+|-id=267 bgcolor=#d6d6d6
+| 554267 ||  || — || February 16, 2015 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=268 bgcolor=#E9E9E9
+| 554268 ||  || — || September 26, 2012 || Mount Lemmon SkyCe || T Vorobjov ||  || align=right | 1.
+8 km || 
+|-id=269 bgcolor=#d6d6d6
+| 554269 ||  || — || September 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=270 bgcolor=#d6d6d6
+| 554270 ||  || — || September 16, 2012 || Kitt Peak || Spacewatch ||  || align=right | 32 km || 
+|-id=271 bgcolor=#d6d6d6
+| 554271 ||  || — || November 8, 2007 || Kitt Peak || Spacewatch ||  || align=right | 17 km || 
+|-id=272 bgcolor=#d6d6d6
+| 554272 ||  || — || June 23, 2017 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=273 bgcolor=#d6d6d6
+| 554273 ||  || — || September 21, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=274 bgcolor=#d6d6d6
+| 554274 ||  || — || December 11, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=275 bgcolor=#fefefe
+| 554275 ||  || — || March 21, 2015 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="057" | 570 m || 
+|-id=276 bgcolor=#fefefe
+| 554276 ||  || — || September 23, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="058" | 580 m || 
+|-id=277 bgcolor=#d6d6d6
+| 554277 ||  || — || September 21, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 27 km || 
+|-id=278 bgcolor=#d6d6d6
+| 554278 ||  || — || September 24, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 19 km || 
+|-id=279 bgcolor=#d6d6d6
+| 554279 ||  || — || September 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=280 bgcolor=#E9E9E9
+| 554280 ||  || — || October 24, 2003 || Kitt Peak || Spacewatch ||  || align=right | 34 km || 
+|-id=281 bgcolor=#C2FFFF
+| 554281 ||  || — || March 31, 2008 || Kitt Peak || Spacewatch || L5 || align=right | 78 km || 
+|-id=282 bgcolor=#fefefe
+| 554282 ||  || — || May 23, 2004 || Apache Point || SDSS Collaboration || H || align=right data-sort-value="057" | 570 m || 
+|-id=283 bgcolor=#d6d6d6
+| 554283 ||  || — || October 4, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=284 bgcolor=#d6d6d6
+| 554284 ||  || — || January 18, 2004 || Palomar || NEAT ||  || align=right | 28 km || 
+|-id=285 bgcolor=#fefefe
+| 554285 ||  || — || October 7, 2002 || Palomar || NEAT ||  || align=right data-sort-value="065" | 650 m || 
+|-id=286 bgcolor=#d6d6d6
+| 554286 ||  || — || September 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=287 bgcolor=#fefefe
+| 554287 ||  || — || February 23, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="073" | 730 m || 
+|-id=288 bgcolor=#d6d6d6
+| 554288 ||  || — || August 12, 2001 || Haleakala || AMOS ||  || align=right | 29 km || 
+|-id=289 bgcolor=#d6d6d6
+| 554289 ||  || — || September 30, 2001 || Palomar || NEAT ||  || align=right | 34 km || 
+|-id=290 bgcolor=#d6d6d6
+| 554290 ||  || — || October 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 27 km || 
+|-id=291 bgcolor=#d6d6d6
+| 554291 ||  || — || October 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=292 bgcolor=#C2FFFF
+| 554292 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey || L5 || align=right | 76 km || 
+|-id=293 bgcolor=#d6d6d6
+| 554293 ||  || — || October 12, 2007 || Kitt Peak || Spacewatch ||  || align=right | 21 km || 
+|-id=294 bgcolor=#d6d6d6
+| 554294 ||  || — || October 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=295 bgcolor=#E9E9E9
+| 554295 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=296 bgcolor=#d6d6d6
+| 554296 ||  || — || November 2, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=297 bgcolor=#fefefe
+| 554297 ||  || — || October 4, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="049" | 490 m || 
+|-id=298 bgcolor=#fefefe
+| 554298 ||  || — || November 10, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="051" | 510 m || 
+|-id=299 bgcolor=#fefefe
+| 554299 ||  || — || October 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="067" | 670 m || 
+|-id=300 bgcolor=#fefefe
+| 554300 ||  || — || September 29, 2002 || Haleakala || AMOS ||  || align=right | 10 km || 
+|}
+
+554301–554400 
+
+|-bgcolor=#d6d6d6
+| 554301 ||  || — || September 21, 2012 || Kitt Peak || Spacewatch ||  || align=right | 21 km || 
+|-id=302 bgcolor=#d6d6d6
+| 554302 ||  || — || October 6, 2012 || Catalina || CSS || Tj (299) || align=right | 3.
+0 km || 
+|-id=303 bgcolor=#fefefe
+| 554303 ||  || — || February 10, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="058" | 580 m || 
+|-id=304 bgcolor=#d6d6d6
+| 554304 ||  || — || November 2, 2007 || Kitt Peak || Spacewatch ||  || align=right | 21 km || 
+|-id=305 bgcolor=#d6d6d6
+| 554305 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=306 bgcolor=#d6d6d6
+| 554306 ||  || — || April 4, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=307 bgcolor=#E9E9E9
+| 554307 ||  || — || September 15, 2012 || ESA OGS || ESA OGS ||  || align=right | 16 km || 
+|-id=308 bgcolor=#FA8072
+| 554308 ||  || — || October 24, 2005 || Palomar || NEAT ||  || align=right data-sort-value="070" | 700 m || 
+|-id=309 bgcolor=#d6d6d6
+| 554309 ||  || — || October 18, 2001 || Palomar || NEAT || THM || align=right | 26 km || 
+|-id=310 bgcolor=#d6d6d6
+| 554310 ||  || — || September 15, 2007 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=311 bgcolor=#d6d6d6
+| 554311 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=312 bgcolor=#d6d6d6
+| 554312 ||  || — || December 7, 1996 || Kitt Peak || Spacewatch ||  || align=right | 36 km || 
+|-id=313 bgcolor=#d6d6d6
+| 554313 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 26 km || 
+|-id=314 bgcolor=#d6d6d6
+| 554314 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 36 km || 
+|-id=315 bgcolor=#d6d6d6
+| 554315 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=316 bgcolor=#d6d6d6
+| 554316 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 26 km || 
+|-id=317 bgcolor=#d6d6d6
+| 554317 ||  || — || October 9, 2012 || Mayhill || N Falla ||  || align=right | 2.
+2 km || 
+|-id=318 bgcolor=#d6d6d6
+| 554318 ||  || — || October 9, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=319 bgcolor=#fefefe
+| 554319 ||  || — || August 29, 2005 || Palomar || NEAT ||  || align=right data-sort-value="078" | 780 m || 
+|-id=320 bgcolor=#d6d6d6
+| 554320 ||  || — || October 9, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=321 bgcolor=#fefefe
+| 554321 ||  || — || December 18, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="058" | 580 m || 
+|-id=322 bgcolor=#d6d6d6
+| 554322 ||  || — || May 24, 2001 || Cerro Tololo || J L.
+ Elliot, L.
+ H.
+ Wasserman ||  || align=right | 4.
+0 km || 
+|-id=323 bgcolor=#fefefe
+| 554323 ||  || — || December 30, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="065" | 650 m || 
+|-id=324 bgcolor=#d6d6d6
+| 554324 ||  || — || October 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=325 bgcolor=#d6d6d6
+| 554325 ||  || — || October 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=326 bgcolor=#d6d6d6
+| 554326 ||  || — || September 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=327 bgcolor=#fefefe
+| 554327 ||  || — || September 24, 2008 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="057" | 570 m || 
+|-id=328 bgcolor=#d6d6d6
+| 554328 ||  || — || August 26, 2006 || Lulin || LUSS ||  || align=right | 27 km || 
+|-id=329 bgcolor=#d6d6d6
+| 554329 ||  || — || October 14, 2001 || Apache Point || SDSS Collaboration ||  || align=right | 23 km || 
+|-id=330 bgcolor=#fefefe
+| 554330 ||  || — || September 21, 2012 || Catalina || CSS ||  || align=right data-sort-value="066" | 660 m || 
+|-id=331 bgcolor=#E9E9E9
+| 554331 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch ||  || align=right | 13 km || 
+|-id=332 bgcolor=#fefefe
+| 554332 ||  || — || April 29, 2003 || Haleakala || AMOS || (5026) || align=right | 12 km || 
+|-id=333 bgcolor=#d6d6d6
+| 554333 ||  || — || September 16, 2012 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=334 bgcolor=#d6d6d6
+| 554334 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch ||  || align=right | 26 km || 
+|-id=335 bgcolor=#d6d6d6
+| 554335 ||  || — || September 15, 2012 || Kitt Peak || Spacewatch ||  || align=right | 27 km || 
+|-id=336 bgcolor=#d6d6d6
+| 554336 ||  || — || September 25, 2006 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=337 bgcolor=#d6d6d6
+| 554337 ||  || — || November 2, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=338 bgcolor=#d6d6d6
+| 554338 ||  || — || October 10, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=339 bgcolor=#d6d6d6
+| 554339 ||  || — || September 21, 2012 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=340 bgcolor=#d6d6d6
+| 554340 ||  || — || September 28, 2001 || Palomar || NEAT ||  || align=right | 37 km || 
+|-id=341 bgcolor=#d6d6d6
+| 554341 ||  || — || October 10, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=342 bgcolor=#d6d6d6
+| 554342 ||  || — || September 16, 2012 || Kitt Peak || Spacewatch ||  || align=right | 21 km || 
+|-id=343 bgcolor=#fefefe
+| 554343 ||  || — || September 12, 2002 || Palomar || NEAT ||  || align=right data-sort-value="058" | 580 m || 
+|-id=344 bgcolor=#d6d6d6
+| 554344 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=345 bgcolor=#d6d6d6
+| 554345 ||  || — || September 16, 2012 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=346 bgcolor=#d6d6d6
+| 554346 ||  || — || August 22, 2006 || Palomar || NEAT ||  || align=right | 40 km || 
+|-id=347 bgcolor=#d6d6d6
+| 554347 ||  || — || May 23, 2001 || Cerro Tololo || J L.
+ Elliot, L.
+ H.
+ Wasserman ||  || align=right | 2.
+8 km || 
+|-id=348 bgcolor=#d6d6d6
+| 554348 ||  || — || November 2, 2007 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=349 bgcolor=#d6d6d6
+| 554349 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=350 bgcolor=#d6d6d6
+| 554350 ||  || — || October 9, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=351 bgcolor=#fefefe
+| 554351 ||  || — || October 11, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="045" | 450 m || 
+|-id=352 bgcolor=#d6d6d6
+| 554352 ||  || — || February 4, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=353 bgcolor=#d6d6d6
+| 554353 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=354 bgcolor=#d6d6d6
+| 554354 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=355 bgcolor=#fefefe
+| 554355 ||  || — || August 4, 2005 || Palomar || NEAT ||  || align=right data-sort-value="074" | 740 m || 
+|-id=356 bgcolor=#d6d6d6
+| 554356 ||  || — || September 16, 2012 || Catalina || CSS ||  || align=right | 30 km || 
+|-id=357 bgcolor=#d6d6d6
+| 554357 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=358 bgcolor=#fefefe
+| 554358 ||  || — || July 30, 2005 || Palomar || NEAT ||  || align=right data-sort-value="073" | 730 m || 
+|-id=359 bgcolor=#d6d6d6
+| 554359 ||  || — || September 12, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=360 bgcolor=#d6d6d6
+| 554360 ||  || — || September 18, 1995 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=361 bgcolor=#d6d6d6
+| 554361 ||  || — || November 8, 2007 || Kitt Peak || Spacewatch ||  || align=right | 21 km || 
+|-id=362 bgcolor=#d6d6d6
+| 554362 ||  || — || November 9, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=363 bgcolor=#d6d6d6
+| 554363 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 20 km || 
+|-id=364 bgcolor=#d6d6d6
+| 554364 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=365 bgcolor=#d6d6d6
+| 554365 ||  || — || October 16, 2001 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=366 bgcolor=#fefefe
+| 554366 ||  || — || September 17, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="053" | 530 m || 
+|-id=367 bgcolor=#d6d6d6
+| 554367 ||  || — || September 17, 2001 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=368 bgcolor=#fefefe
+| 554368 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="047" | 470 m || 
+|-id=369 bgcolor=#d6d6d6
+| 554369 ||  || — || October 3, 2006 || Kitt Peak || Spacewatch ||  || align=right | 26 km || 
+|-id=370 bgcolor=#d6d6d6
+| 554370 ||  || — || December 5, 2007 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=371 bgcolor=#fefefe
+| 554371 ||  || — || August 4, 2005 || Palomar || NEAT ||  || align=right data-sort-value="077" | 770 m || 
+|-id=372 bgcolor=#FA8072
+| 554372 ||  || — || October 9, 2012 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="035" | 350 m || 
+|-id=373 bgcolor=#fefefe
+| 554373 ||  || — || October 9, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="052" | 520 m || 
+|-id=374 bgcolor=#fefefe
+| 554374 ||  || — || September 24, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="063" | 630 m || 
+|-id=375 bgcolor=#d6d6d6
+| 554375 ||  || — || October 9, 2012 || Haleakala || Pan-STARRS || VER || align=right | 21 km || 
+|-id=376 bgcolor=#d6d6d6
+| 554376 ||  || — || September 21, 2012 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=377 bgcolor=#fefefe
+| 554377 ||  || — || September 17, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="064" | 640 m || 
+|-id=378 bgcolor=#d6d6d6
+| 554378 ||  || — || October 10, 2012 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=379 bgcolor=#d6d6d6
+| 554379 ||  || — || November 7, 2007 || Kitt Peak || Spacewatch ||  || align=right | 27 km || 
+|-id=380 bgcolor=#d6d6d6
+| 554380 ||  || — || August 15, 2006 || Palomar || NEAT || LIX || align=right | 38 km || 
+|-id=381 bgcolor=#d6d6d6
+| 554381 ||  || — || October 20, 1995 || Kitt Peak || Spacewatch || VER || align=right | 23 km || 
+|-id=382 bgcolor=#d6d6d6
+| 554382 ||  || — || August 29, 2006 || Kitt Peak || Spacewatch ||  || align=right | 26 km || 
+|-id=383 bgcolor=#d6d6d6
+| 554383 ||  || — || October 11, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=384 bgcolor=#d6d6d6
+| 554384 ||  || — || October 11, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 19 km || 
+|-id=385 bgcolor=#d6d6d6
+| 554385 ||  || — || October 11, 2012 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=386 bgcolor=#d6d6d6
+| 554386 ||  || — || October 11, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=387 bgcolor=#d6d6d6
+| 554387 ||  || — || October 11, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=388 bgcolor=#fefefe
+| 554388 ||  || — || August 27, 2005 || Palomar || NEAT ||  || align=right data-sort-value="073" | 730 m || 
+|-id=389 bgcolor=#E9E9E9
+| 554389 ||  || — || February 14, 2005 || Kitt Peak || Spacewatch ||  || align=right | 17 km || 
+|-id=390 bgcolor=#d6d6d6
+| 554390 ||  || — || October 11, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=391 bgcolor=#fefefe
+| 554391 ||  || — || August 31, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="053" | 530 m || 
+|-id=392 bgcolor=#fefefe
+| 554392 ||  || — || February 21, 2007 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="059" | 590 m || 
+|-id=393 bgcolor=#d6d6d6
+| 554393 ||  || — || October 19, 2006 || Kitt Peak || L H.
+ Wasserman ||  || align=right | 2.
+3 km || 
+|-id=394 bgcolor=#d6d6d6
+| 554394 ||  || — || October 15, 2001 || Palomar || NEAT ||  || align=right | 33 km || 
+|-id=395 bgcolor=#d6d6d6
+| 554395 ||  || — || August 28, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 38 km || 
+|-id=396 bgcolor=#d6d6d6
+| 554396 ||  || — || October 2, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 31 km || 
+|-id=397 bgcolor=#fefefe
+| 554397 ||  || — || November 4, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="072" | 720 m || 
+|-id=398 bgcolor=#d6d6d6
+| 554398 ||  || — || September 25, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 35 km || 
+|-id=399 bgcolor=#d6d6d6
+| 554399 ||  || — || October 14, 2012 || ESA OGS || ESA OGS ||  || align=right | 20 km || 
+|-id=400 bgcolor=#d6d6d6
+| 554400 ||  || — || January 18, 2004 || Palomar || NEAT ||  || align=right | 34 km || 
+|}
+
+554401–554500 
+
+|-bgcolor=#d6d6d6
+| 554401 ||  || — || October 14, 2012 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=402 bgcolor=#d6d6d6
+| 554402 ||  || — || October 14, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=403 bgcolor=#d6d6d6
+| 554403 ||  || — || October 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=404 bgcolor=#d6d6d6
+| 554404 ||  || — || October 9, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=405 bgcolor=#d6d6d6
+| 554405 ||  || — || November 5, 2007 || Kitt Peak || Spacewatch ||  || align=right | 26 km || 
+|-id=406 bgcolor=#d6d6d6
+| 554406 ||  || — || October 15, 2001 || Palomar || NEAT ||  || align=right | 31 km || 
+|-id=407 bgcolor=#d6d6d6
+| 554407 ||  || — || September 19, 2001 || Kitt Peak || Spacewatch || EOS || align=right | 16 km || 
+|-id=408 bgcolor=#d6d6d6
+| 554408 ||  || — || November 8, 2007 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=409 bgcolor=#d6d6d6
+| 554409 ||  || — || September 24, 2012 || Charleston || R Holmes ||  || align=right | 2.
+4 km || 
+|-id=410 bgcolor=#d6d6d6
+| 554410 ||  || — || March 10, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=411 bgcolor=#d6d6d6
+| 554411 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 17 km || 
+|-id=412 bgcolor=#d6d6d6
+| 554412 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=413 bgcolor=#d6d6d6
+| 554413 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 30 km || 
+|-id=414 bgcolor=#d6d6d6
+| 554414 ||  || — || November 8, 2007 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=415 bgcolor=#d6d6d6
+| 554415 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 27 km || 
+|-id=416 bgcolor=#d6d6d6
+| 554416 ||  || — || February 3, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=417 bgcolor=#d6d6d6
+| 554417 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=418 bgcolor=#d6d6d6
+| 554418 ||  || — || August 28, 2006 || La Silla || Spacewatch ||  || align=right | 29 km || 
+|-id=419 bgcolor=#d6d6d6
+| 554419 ||  || — || February 19, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=420 bgcolor=#fefefe
+| 554420 ||  || — || December 17, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="064" | 640 m || 
+|-id=421 bgcolor=#d6d6d6
+| 554421 ||  || — || October 11, 2012 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=422 bgcolor=#d6d6d6
+| 554422 ||  || — || October 11, 2012 || Kitt Peak || Pan-STARRS ||  || align=right | 30 km || 
+|-id=423 bgcolor=#d6d6d6
+| 554423 ||  || — || October 11, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=424 bgcolor=#d6d6d6
+| 554424 ||  || — || October 11, 2012 || Haleakala || Pan-STARRS ||  || align=right | 26 km || 
+|-id=425 bgcolor=#d6d6d6
+| 554425 ||  || — || October 11, 2012 || Piszkesteto || K Sárneczky ||  || align=right | 3.
+1 km || 
+|-id=426 bgcolor=#d6d6d6
+| 554426 ||  || — || October 11, 2012 || Piszkesteto || K Sárneczky ||  || align=right | 2.
+7 km || 
+|-id=427 bgcolor=#d6d6d6
+| 554427 ||  || — || July 30, 2001 || Palomar || NEAT ||  || align=right | 30 km || 
+|-id=428 bgcolor=#E9E9E9
+| 554428 ||  || — || September 2, 2008 || Kitt Peak || Spacewatch ||  || align=right | 11 km || 
+|-id=429 bgcolor=#fefefe
+| 554429 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="063" | 630 m || 
+|-id=430 bgcolor=#d6d6d6
+| 554430 ||  || — || March 1, 2009 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=431 bgcolor=#d6d6d6
+| 554431 ||  || — || September 23, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=432 bgcolor=#d6d6d6
+| 554432 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=433 bgcolor=#d6d6d6
+| 554433 ||  || — || September 20, 2001 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=434 bgcolor=#d6d6d6
+| 554434 ||  || — || February 25, 2009 || Calar Alto || F Hormuth ||  || align=right | 2.
+4 km || 
+|-id=435 bgcolor=#fefefe
+| 554435 ||  || — || September 10, 2004 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="051" | 510 m || 
+|-id=436 bgcolor=#d6d6d6
+| 554436 ||  || — || October 9, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=437 bgcolor=#d6d6d6
+| 554437 ||  || — || October 9, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=438 bgcolor=#d6d6d6
+| 554438 ||  || — || October 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=439 bgcolor=#d6d6d6
+| 554439 ||  || — || October 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=440 bgcolor=#d6d6d6
+| 554440 ||  || — || October 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=441 bgcolor=#d6d6d6
+| 554441 ||  || — || October 11, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=442 bgcolor=#d6d6d6
+| 554442 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch ||  || align=right | 17 km || 
+|-id=443 bgcolor=#fefefe
+| 554443 ||  || — || September 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="074" | 740 m || 
+|-id=444 bgcolor=#fefefe
+| 554444 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS || (1338) || align=right data-sort-value="063" | 630 m || 
+|-id=445 bgcolor=#d6d6d6
+| 554445 ||  || — || October 15, 2012 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=446 bgcolor=#d6d6d6
+| 554446 ||  || — || September 26, 2006 || Kitt Peak || Spacewatch ||  || align=right | 27 km || 
+|-id=447 bgcolor=#d6d6d6
+| 554447 ||  || — || October 6, 2012 || Kitt Peak || Spacewatch ||  || align=right | 30 km || 
+|-id=448 bgcolor=#fefefe
+| 554448 ||  || — || October 14, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="063" | 630 m || 
+|-id=449 bgcolor=#fefefe
+| 554449 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="054" | 540 m || 
+|-id=450 bgcolor=#d6d6d6
+| 554450 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 31 km || 
+|-id=451 bgcolor=#d6d6d6
+| 554451 ||  || — || October 8, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=452 bgcolor=#d6d6d6
+| 554452 ||  || — || September 28, 2001 || Palomar || NEAT ||  || align=right | 31 km || 
+|-id=453 bgcolor=#fefefe
+| 554453 ||  || — || September 18, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="064" | 640 m || 
+|-id=454 bgcolor=#fefefe
+| 554454 ||  || — || July 30, 2005 || Palomar || NEAT ||  || align=right data-sort-value="058" | 580 m || 
+|-id=455 bgcolor=#d6d6d6
+| 554455 ||  || — || November 5, 2007 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=456 bgcolor=#d6d6d6
+| 554456 ||  || — || September 18, 2012 || Kitt Peak || Spacewatch ||  || align=right | 27 km || 
+|-id=457 bgcolor=#d6d6d6
+| 554457 ||  || — || August 31, 2000 || Kitt Peak || Spacewatch ||  || align=right | 32 km || 
+|-id=458 bgcolor=#fefefe
+| 554458 ||  || — || September 13, 2002 || Palomar || NEAT ||  || align=right data-sort-value="070" | 700 m || 
+|-id=459 bgcolor=#fefefe
+| 554459 ||  || — || August 30, 2005 || Palomar || NEAT ||  || align=right data-sort-value="069" | 690 m || 
+|-id=460 bgcolor=#d6d6d6
+| 554460 ||  || — || October 11, 2012 || Piszkesteto || K Sárneczky ||  || align=right | 3.
+6 km || 
+|-id=461 bgcolor=#d6d6d6
+| 554461 ||  || — || July 31, 2001 || Palomar || NEAT ||  || align=right | 28 km || 
+|-id=462 bgcolor=#d6d6d6
+| 554462 ||  || — || October 22, 2001 || Palomar || NEAT ||  || align=right | 31 km || 
+|-id=463 bgcolor=#d6d6d6
+| 554463 ||  || — || October 14, 2012 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right | 2.
+6 km || 
+|-id=464 bgcolor=#fefefe
+| 554464 ||  || — || October 15, 2001 || Palomar || NEAT ||  || align=right data-sort-value="072" | 720 m || 
+|-id=465 bgcolor=#d6d6d6
+| 554465 ||  || — || February 1, 2009 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=466 bgcolor=#d6d6d6
+| 554466 ||  || — || December 18, 2007 || Costitx || Mallorca Obs ||  || align=right | 4.
+0 km || 
+|-id=467 bgcolor=#d6d6d6
+| 554467 ||  || — || October 6, 2012 || Haleakala || Pan-STARRS ||  || align=right | 27 km || 
+|-id=468 bgcolor=#d6d6d6
+| 554468 ||  || — || October 15, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=469 bgcolor=#fefefe
+| 554469 ||  || — || October 11, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="059" | 590 m || 
+|-id=470 bgcolor=#fefefe
+| 554470 ||  || — || December 10, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="066" | 660 m || 
+|-id=471 bgcolor=#d6d6d6
+| 554471 ||  || — || October 14, 2012 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=472 bgcolor=#d6d6d6
+| 554472 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=473 bgcolor=#d6d6d6
+| 554473 ||  || — || October 6, 2012 || Haleakala || Pan-STARRS ||  || align=right | 32 km || 
+|-id=474 bgcolor=#d6d6d6
+| 554474 ||  || — || October 11, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=475 bgcolor=#d6d6d6
+| 554475 ||  || — || July 4, 2017 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=476 bgcolor=#d6d6d6
+| 554476 ||  || — || September 19, 1995 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=477 bgcolor=#d6d6d6
+| 554477 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 26 km || 
+|-id=478 bgcolor=#d6d6d6
+| 554478 ||  || — || October 10, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=479 bgcolor=#d6d6d6
+| 554479 ||  || — || May 6, 2016 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=480 bgcolor=#d6d6d6
+| 554480 ||  || — || October 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=481 bgcolor=#d6d6d6
+| 554481 ||  || — || August 30, 2006 || Anderson Mesa || LONEOS ||  || align=right | 26 km || 
+|-id=482 bgcolor=#d6d6d6
+| 554482 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=483 bgcolor=#d6d6d6
+| 554483 ||  || — || October 10, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=484 bgcolor=#d6d6d6
+| 554484 ||  || — || January 26, 2015 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=485 bgcolor=#d6d6d6
+| 554485 ||  || — || April 4, 2016 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=486 bgcolor=#d6d6d6
+| 554486 ||  || — || October 9, 2012 || Haleakala || Pan-STARRS ||  || align=right | 20 km || 
+|-id=487 bgcolor=#fefefe
+| 554487 ||  || — || April 6, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="067" | 670 m || 
+|-id=488 bgcolor=#E9E9E9
+| 554488 ||  || — || October 12, 2012 || Oukaimeden || C Rinner ||  || align=right | 1.
+8 km || 
+|-id=489 bgcolor=#d6d6d6
+| 554489 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=490 bgcolor=#d6d6d6
+| 554490 ||  || — || October 15, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=491 bgcolor=#fefefe
+| 554491 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch || H || align=right data-sort-value="046" | 460 m || 
+|-id=492 bgcolor=#d6d6d6
+| 554492 ||  || — || October 6, 2012 || Haleakala || Pan-STARRS ||  || align=right | 27 km || 
+|-id=493 bgcolor=#d6d6d6
+| 554493 ||  || — || April 9, 2010 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=494 bgcolor=#d6d6d6
+| 554494 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=495 bgcolor=#d6d6d6
+| 554495 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=496 bgcolor=#d6d6d6
+| 554496 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=497 bgcolor=#fefefe
+| 554497 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="061" | 610 m || 
+|-id=498 bgcolor=#fefefe
+| 554498 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="067" | 670 m || 
+|-id=499 bgcolor=#d6d6d6
+| 554499 ||  || — || August 26, 2000 || Cerro Tololo || R Millis, L.
+ H.
+ Wasserman || THM || align=right | 2.
+1 km || 
+|-id=500 bgcolor=#d6d6d6
+| 554500 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|}
+
+554501–554600 
+
+|-bgcolor=#d6d6d6
+| 554501 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=502 bgcolor=#fefefe
+| 554502 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="044" | 440 m || 
+|-id=503 bgcolor=#d6d6d6
+| 554503 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=504 bgcolor=#d6d6d6
+| 554504 ||  || — || February 1, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=505 bgcolor=#d6d6d6
+| 554505 ||  || — || November 11, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 19 km || 
+|-id=506 bgcolor=#d6d6d6
+| 554506 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=507 bgcolor=#d6d6d6
+| 554507 ||  || — || December 4, 2007 || Kitt Peak || Spacewatch ||  || align=right | 27 km || 
+|-id=508 bgcolor=#d6d6d6
+| 554508 ||  || — || September 16, 2012 || Charleston || R Holmes ||  || align=right | 2.
+4 km || 
+|-id=509 bgcolor=#d6d6d6
+| 554509 ||  || — || October 17, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 30 km || 
+|-id=510 bgcolor=#fefefe
+| 554510 ||  || — || August 26, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="057" | 570 m || 
+|-id=511 bgcolor=#d6d6d6
+| 554511 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch ||  || align=right | 20 km || 
+|-id=512 bgcolor=#fefefe
+| 554512 ||  || — || October 10, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="082" | 820 m || 
+|-id=513 bgcolor=#d6d6d6
+| 554513 ||  || — || October 17, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=514 bgcolor=#d6d6d6
+| 554514 ||  || — || October 16, 2012 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=515 bgcolor=#fefefe
+| 554515 ||  || — || August 26, 2005 || Palomar || NEAT ||  || align=right data-sort-value="069" | 690 m || 
+|-id=516 bgcolor=#fefefe
+| 554516 ||  || — || September 12, 2002 || Palomar || NEAT ||  || align=right data-sort-value="069" | 690 m || 
+|-id=517 bgcolor=#d6d6d6
+| 554517 ||  || — || October 16, 2012 || Kitt Peak || Spacewatch ||  || align=right | 30 km || 
+|-id=518 bgcolor=#d6d6d6
+| 554518 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=519 bgcolor=#d6d6d6
+| 554519 ||  || — || February 24, 2009 || Mount Lemmon || Mount Lemmon Survey || VER || align=right | 23 km || 
+|-id=520 bgcolor=#E9E9E9
+| 554520 ||  || — || May 3, 2006 || Kitt Peak || Spacewatch ||  || align=right | 13 km || 
+|-id=521 bgcolor=#d6d6d6
+| 554521 ||  || — || October 16, 2012 || Kitt Peak || Spacewatch || 7:4 || align=right | 45 km || 
+|-id=522 bgcolor=#d6d6d6
+| 554522 ||  || — || August 17, 2006 || Palomar || NEAT ||  || align=right | 26 km || 
+|-id=523 bgcolor=#d6d6d6
+| 554523 ||  || — || December 4, 2007 || Kitt Peak || Spacewatch ||  || align=right | 33 km || 
+|-id=524 bgcolor=#d6d6d6
+| 554524 ||  || — || September 21, 2006 || Bergisch Gladbach || W Bickel || VER || align=right | 2.
+7 km || 
+|-id=525 bgcolor=#FA8072
+| 554525 ||  || — || October 30, 2002 || Palomar || NEAT ||  || align=right data-sort-value="070" | 700 m || 
+|-id=526 bgcolor=#fefefe
+| 554526 ||  || — || September 15, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="069" | 690 m || 
+|-id=527 bgcolor=#d6d6d6
+| 554527 ||  || — || September 23, 2012 || Les Engarouines || L Bernasconi ||  || align=right | 3.
+6 km || 
+|-id=528 bgcolor=#d6d6d6
+| 554528 ||  || — || March 8, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=529 bgcolor=#fefefe
+| 554529 ||  || — || March 29, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="055" | 550 m || 
+|-id=530 bgcolor=#d6d6d6
+| 554530 ||  || — || October 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=531 bgcolor=#fefefe
+| 554531 ||  || — || September 25, 2012 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right data-sort-value="0.
+83" | 830 m || 
+|-id=532 bgcolor=#d6d6d6
+| 554532 ||  || — || September 23, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=533 bgcolor=#d6d6d6
+| 554533 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=534 bgcolor=#d6d6d6
+| 554534 ||  || — || April 14, 2005 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=535 bgcolor=#d6d6d6
+| 554535 ||  || — || February 1, 2009 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=536 bgcolor=#d6d6d6
+| 554536 ||  || — || October 19, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=537 bgcolor=#fefefe
+| 554537 ||  || — || October 20, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="066" | 660 m || 
+|-id=538 bgcolor=#d6d6d6
+| 554538 ||  || — || October 20, 2012 || Kitt Peak || Spacewatch ||  || align=right | 36 km || 
+|-id=539 bgcolor=#d6d6d6
+| 554539 ||  || — || September 28, 2001 || Palomar || NEAT ||  || align=right | 28 km || 
+|-id=540 bgcolor=#E9E9E9
+| 554540 ||  || — || December 14, 2003 || Palomar || NEAT || DOR || align=right | 25 km || 
+|-id=541 bgcolor=#fefefe
+| 554541 ||  || — || September 15, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="045" | 450 m || 
+|-id=542 bgcolor=#fefefe
+| 554542 ||  || — || November 11, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="080" | 800 m || 
+|-id=543 bgcolor=#fefefe
+| 554543 ||  || — || October 7, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="059" | 590 m || 
+|-id=544 bgcolor=#d6d6d6
+| 554544 ||  || — || October 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=545 bgcolor=#d6d6d6
+| 554545 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=546 bgcolor=#d6d6d6
+| 554546 ||  || — || July 21, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 19 km || 
+|-id=547 bgcolor=#d6d6d6
+| 554547 ||  || — || November 5, 2007 || Kitt Peak || Spacewatch ||  || align=right | 33 km || 
+|-id=548 bgcolor=#d6d6d6
+| 554548 ||  || — || October 8, 2012 || Mayhill-ISON || L Elenin ||  || align=right | 3.
+2 km || 
+|-id=549 bgcolor=#d6d6d6
+| 554549 ||  || — || October 22, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=550 bgcolor=#d6d6d6
+| 554550 ||  || — || October 11, 2012 || Kitt Peak || Pan-STARRS ||  || align=right | 24 km || 
+|-id=551 bgcolor=#d6d6d6
+| 554551 ||  || — || October 11, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=552 bgcolor=#d6d6d6
+| 554552 ||  || — || September 20, 2006 || Palomar || NEAT ||  || align=right | 27 km || 
+|-id=553 bgcolor=#d6d6d6
+| 554553 ||  || — || August 23, 2011 || La Sagra || Mallorca Obs ||  || align=right | 3.
+6 km || 
+|-id=554 bgcolor=#d6d6d6
+| 554554 ||  || — || September 15, 2012 || ASC-Kislovodsk || ASC-Kislovodsk || TIR || align=right | 27 km || 
+|-id=555 bgcolor=#d6d6d6
+| 554555 ||  || — || August 20, 2001 || Palomar || NEAT || TIR || align=right | 36 km || 
+|-id=556 bgcolor=#fefefe
+| 554556 ||  || — || August 27, 2005 || Palomar || NEAT ||  || align=right data-sort-value="067" | 670 m || 
+|-id=557 bgcolor=#d6d6d6
+| 554557 ||  || — || September 25, 2006 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=558 bgcolor=#fefefe
+| 554558 ||  || — || August 28, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="054" | 540 m || 
+|-id=559 bgcolor=#fefefe
+| 554559 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="068" | 680 m || 
+|-id=560 bgcolor=#fefefe
+| 554560 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="065" | 650 m || 
+|-id=561 bgcolor=#fefefe
+| 554561 ||  || — || May 30, 2008 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="068" | 680 m || 
+|-id=562 bgcolor=#E9E9E9
+| 554562 ||  || — || October 16, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 19 km || 
+|-id=563 bgcolor=#d6d6d6
+| 554563 ||  || — || May 12, 2010 || Kitt Peak || Spacewatch || VER || align=right | 25 km || 
+|-id=564 bgcolor=#fefefe
+| 554564 ||  || — || October 13, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="061" | 610 m || 
+|-id=565 bgcolor=#d6d6d6
+| 554565 ||  || — || September 14, 2006 || Palomar || NEAT ||  || align=right | 43 km || 
+|-id=566 bgcolor=#d6d6d6
+| 554566 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=567 bgcolor=#fefefe
+| 554567 ||  || — || October 20, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="064" | 640 m || 
+|-id=568 bgcolor=#d6d6d6
+| 554568 ||  || — || May 7, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 36 km || 
+|-id=569 bgcolor=#d6d6d6
+| 554569 ||  || — || October 11, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=570 bgcolor=#d6d6d6
+| 554570 ||  || — || August 28, 2006 || Catalina || CSS ||  || align=right | 24 km || 
+|-id=571 bgcolor=#d6d6d6
+| 554571 ||  || — || January 1, 2008 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=572 bgcolor=#fefefe
+| 554572 ||  || — || November 1, 2002 || Kitt Peak || NEAT ||  || align=right data-sort-value="082" | 820 m || 
+|-id=573 bgcolor=#d6d6d6
+| 554573 ||  || — || October 11, 2006 || Palomar || NEAT ||  || align=right | 38 km || 
+|-id=574 bgcolor=#fefefe
+| 554574 ||  || — || August 27, 2005 || Palomar || NEAT ||  || align=right data-sort-value="057" | 570 m || 
+|-id=575 bgcolor=#d6d6d6
+| 554575 ||  || — || October 13, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=576 bgcolor=#d6d6d6
+| 554576 ||  || — || July 22, 2001 || Palomar || NEAT ||  || align=right | 28 km || 
+|-id=577 bgcolor=#d6d6d6
+| 554577 ||  || — || February 11, 2004 || Kitt Peak || Spacewatch || EOS || align=right | 25 km || 
+|-id=578 bgcolor=#d6d6d6
+| 554578 ||  || — || October 9, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=579 bgcolor=#fefefe
+| 554579 ||  || — || February 26, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="062" | 620 m || 
+|-id=580 bgcolor=#fefefe
+| 554580 ||  || — || October 7, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="058" | 580 m || 
+|-id=581 bgcolor=#d6d6d6
+| 554581 ||  || — || August 27, 2001 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=582 bgcolor=#E9E9E9
+| 554582 ||  || — || October 30, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="079" | 790 m || 
+|-id=583 bgcolor=#d6d6d6
+| 554583 ||  || — || October 9, 2007 || Kitt Peak || Spacewatch ||  || align=right | 17 km || 
+|-id=584 bgcolor=#d6d6d6
+| 554584 ||  || — || October 20, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=585 bgcolor=#d6d6d6
+| 554585 ||  || — || December 20, 2014 || Haleakala || Pan-STARRS ||  || align=right | 28 km || 
+|-id=586 bgcolor=#d6d6d6
+| 554586 ||  || — || October 22, 2012 || Haleakala || Pan-STARRS ||  || align=right | 28 km || 
+|-id=587 bgcolor=#d6d6d6
+| 554587 ||  || — || August 21, 2006 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=588 bgcolor=#fefefe
+| 554588 ||  || — || October 21, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="055" | 550 m || 
+|-id=589 bgcolor=#d6d6d6
+| 554589 ||  || — || October 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=590 bgcolor=#d6d6d6
+| 554590 ||  || — || October 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=591 bgcolor=#fefefe
+| 554591 ||  || — || October 22, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="067" | 670 m || 
+|-id=592 bgcolor=#fefefe
+| 554592 ||  || — || October 19, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="055" | 550 m || 
+|-id=593 bgcolor=#d6d6d6
+| 554593 ||  || — || October 23, 2012 || Haleakala || Pan-STARRS ||  || align=right | 32 km || 
+|-id=594 bgcolor=#d6d6d6
+| 554594 ||  || — || March 22, 2015 || Haleakala || Pan-STARRS ||  || align=right | 27 km || 
+|-id=595 bgcolor=#d6d6d6
+| 554595 ||  || — || October 22, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=596 bgcolor=#fefefe
+| 554596 ||  || — || October 22, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="054" | 540 m || 
+|-id=597 bgcolor=#d6d6d6
+| 554597 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 19 km || 
+|-id=598 bgcolor=#d6d6d6
+| 554598 ||  || — || October 17, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 27 km || 
+|-id=599 bgcolor=#E9E9E9
+| 554599 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 16 km || 
+|-id=600 bgcolor=#d6d6d6
+| 554600 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|}
+
+554601–554700 
+
+|-bgcolor=#fefefe
+| 554601 ||  || — || October 17, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="057" | 570 m || 
+|-id=602 bgcolor=#fefefe
+| 554602 ||  || — || October 20, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="059" | 590 m || 
+|-id=603 bgcolor=#d6d6d6
+| 554603 ||  || — || October 20, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=604 bgcolor=#d6d6d6
+| 554604 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=605 bgcolor=#d6d6d6
+| 554605 ||  || — || October 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=606 bgcolor=#d6d6d6
+| 554606 ||  || — || October 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=607 bgcolor=#d6d6d6
+| 554607 ||  || — || October 14, 2012 || Catalina || CSS ||  || align=right | 33 km || 
+|-id=608 bgcolor=#d6d6d6
+| 554608 ||  || — || October 21, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 23 km || 
+|-id=609 bgcolor=#d6d6d6
+| 554609 ||  || — || October 17, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=610 bgcolor=#d6d6d6
+| 554610 ||  || — || October 6, 2012 || Haleakala || Pan-STARRS ||  || align=right | 23 km || 
+|-id=611 bgcolor=#d6d6d6
+| 554611 ||  || — || November 2, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=612 bgcolor=#fefefe
+| 554612 ||  || — || October 7, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="046" | 460 m || 
+|-id=613 bgcolor=#fefefe
+| 554613 ||  || — || August 29, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="081" | 810 m || 
+|-id=614 bgcolor=#fefefe
+| 554614 ||  || — || March 9, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="063" | 630 m || 
+|-id=615 bgcolor=#d6d6d6
+| 554615 ||  || — || November 4, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=616 bgcolor=#d6d6d6
+| 554616 ||  || — || October 22, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=617 bgcolor=#d6d6d6
+| 554617 ||  || — || February 1, 2003 || Palomar || NEAT ||  || align=right | 32 km || 
+|-id=618 bgcolor=#fefefe
+| 554618 ||  || — || October 22, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="076" | 760 m || 
+|-id=619 bgcolor=#fefefe
+| 554619 ||  || — || March 20, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="063" | 630 m || 
+|-id=620 bgcolor=#d6d6d6
+| 554620 ||  || — || September 28, 2001 || Palomar || NEAT ||  || align=right | 35 km || 
+|-id=621 bgcolor=#d6d6d6
+| 554621 ||  || — || November 4, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=622 bgcolor=#fefefe
+| 554622 ||  || — || October 1, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="054" | 540 m || 
+|-id=623 bgcolor=#fefefe
+| 554623 ||  || — || August 6, 2005 || Palomar || NEAT ||  || align=right data-sort-value="057" | 570 m || 
+|-id=624 bgcolor=#fefefe
+| 554624 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="051" | 510 m || 
+|-id=625 bgcolor=#d6d6d6
+| 554625 ||  || — || September 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=626 bgcolor=#fefefe
+| 554626 ||  || — || November 28, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="053" | 530 m || 
+|-id=627 bgcolor=#fefefe
+| 554627 ||  || — || October 8, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="056" | 560 m || 
+|-id=628 bgcolor=#d6d6d6
+| 554628 ||  || — || October 21, 2012 || Haleakala || Pan-STARRS ||  || align=right | 30 km || 
+|-id=629 bgcolor=#fefefe
+| 554629 ||  || — || December 24, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="070" | 700 m || 
+|-id=630 bgcolor=#C2FFFF
+| 554630 ||  || — || September 24, 2011 || Mount Lemmon || Mount Lemmon Survey || L5 || align=right | 62 km || 
+|-id=631 bgcolor=#d6d6d6
+| 554631 ||  || — || August 20, 2006 || Palomar || NEAT ||  || align=right | 27 km || 
+|-id=632 bgcolor=#d6d6d6
+| 554632 ||  || — || October 18, 2012 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=633 bgcolor=#d6d6d6
+| 554633 ||  || — || October 14, 2012 || Kitt Peak || Spacewatch ||  || align=right | 20 km || 
+|-id=634 bgcolor=#fefefe
+| 554634 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="062" | 620 m || 
+|-id=635 bgcolor=#d6d6d6
+| 554635 ||  || — || October 21, 2012 || Haleakala || Pan-STARRS ||  || align=right | 27 km || 
+|-id=636 bgcolor=#d6d6d6
+| 554636 ||  || — || October 21, 2012 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right | 3.
+0 km || 
+|-id=637 bgcolor=#d6d6d6
+| 554637 ||  || — || October 8, 2012 || Haleakala || Pan-STARRS ||  || align=right | 32 km || 
+|-id=638 bgcolor=#E9E9E9
+| 554638 ||  || — || October 24, 2008 || Kitt Peak || Spacewatch || EUN || align=right data-sort-value="078" | 780 m || 
+|-id=639 bgcolor=#d6d6d6
+| 554639 ||  || — || August 17, 2006 || Palomar || NEAT ||  || align=right | 22 km || 
+|-id=640 bgcolor=#fefefe
+| 554640 ||  || — || February 14, 2003 || La Silla || R Michelsen, G.
+ Masi || NYS || align=right data-sort-value="0.
+57" | 570 m || 
+|-id=641 bgcolor=#d6d6d6
+| 554641 ||  || — || October 23, 2001 || Palomar || NEAT ||  || align=right | 28 km || 
+|-id=642 bgcolor=#d6d6d6
+| 554642 ||  || — || September 3, 2005 || Mount Lemmon || Mauna Kea Obs ||  || align=right | 3.
+1 km || 
+|-id=643 bgcolor=#d6d6d6
+| 554643 ||  || — || October 21, 2012 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=644 bgcolor=#d6d6d6
+| 554644 ||  || — || October 16, 2012 || Kitt Peak || Spacewatch ||  || align=right | 31 km || 
+|-id=645 bgcolor=#d6d6d6
+| 554645 ||  || — || October 20, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=646 bgcolor=#d6d6d6
+| 554646 ||  || — || August 26, 2011 || Piszkesteto || K Sárneczky ||  || align=right | 3.
+6 km || 
+|-id=647 bgcolor=#d6d6d6
+| 554647 ||  || — || October 20, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 27 km || 
+|-id=648 bgcolor=#fefefe
+| 554648 ||  || — || October 20, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="052" | 520 m || 
+|-id=649 bgcolor=#d6d6d6
+| 554649 ||  || — || May 13, 2005 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=650 bgcolor=#d6d6d6
+| 554650 ||  || — || October 8, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=651 bgcolor=#fefefe
+| 554651 ||  || — || November 30, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="061" | 610 m || 
+|-id=652 bgcolor=#d6d6d6
+| 554652 ||  || — || October 14, 2001 || Socorro || LINEAR || EOS || align=right | 19 km || 
+|-id=653 bgcolor=#d6d6d6
+| 554653 ||  || — || November 2, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=654 bgcolor=#d6d6d6
+| 554654 ||  || — || September 27, 2006 || Catalina || CSS ||  || align=right | 32 km || 
+|-id=655 bgcolor=#d6d6d6
+| 554655 ||  || — || November 15, 2012 || Elena Remote || A Oreshko, T.
+ V.
+ Kryachko ||  || align=right | 2.
+7 km || 
+|-id=656 bgcolor=#fefefe
+| 554656 ||  || — || November 29, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="045" | 450 m || 
+|-id=657 bgcolor=#d6d6d6
+| 554657 ||  || — || November 3, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=658 bgcolor=#d6d6d6
+| 554658 ||  || — || February 23, 2015 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=659 bgcolor=#d6d6d6
+| 554659 ||  || — || March 18, 2015 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=660 bgcolor=#fefefe
+| 554660 ||  || — || October 19, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="061" | 610 m || 
+|-id=661 bgcolor=#d6d6d6
+| 554661 ||  || — || October 16, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 27 km || 
+|-id=662 bgcolor=#d6d6d6
+| 554662 ||  || — || November 7, 2012 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=663 bgcolor=#E9E9E9
+| 554663 ||  || — || November 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 13 km || 
+|-id=664 bgcolor=#fefefe
+| 554664 ||  || — || November 4, 2012 || Haleakala || Pan-STARRS || H || align=right data-sort-value="057" | 570 m || 
+|-id=665 bgcolor=#E9E9E9
+| 554665 ||  || — || October 22, 2012 || Kitt Peak || Pan-STARRS ||  || align=right | 20 km || 
+|-id=666 bgcolor=#d6d6d6
+| 554666 ||  || — || May 20, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 30 km || 
+|-id=667 bgcolor=#d6d6d6
+| 554667 ||  || — || October 22, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=668 bgcolor=#fefefe
+| 554668 ||  || — || December 1, 2005 || Kitt Peak || L H.
+ Wasserman, R.
+ Millis ||  || align=right data-sort-value="0.
+67" | 670 m || 
+|-id=669 bgcolor=#d6d6d6
+| 554669 ||  || — || October 27, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 36 km || 
+|-id=670 bgcolor=#d6d6d6
+| 554670 ||  || — || November 7, 2012 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=671 bgcolor=#fefefe
+| 554671 ||  || — || November 26, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="052" | 520 m || 
+|-id=672 bgcolor=#fefefe
+| 554672 ||  || — || October 30, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="077" | 770 m || 
+|-id=673 bgcolor=#fefefe
+| 554673 ||  || — || November 21, 2012 || Les Engarouines || L Bernasconi ||  || align=right data-sort-value="0.
+76" | 760 m || 
+|-id=674 bgcolor=#E9E9E9
+| 554674 ||  || — || November 26, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="098" | 980 m || 
+|-id=675 bgcolor=#d6d6d6
+| 554675 ||  || — || November 13, 2012 || ESA OGS || ESA OGS ||  || align=right | 30 km || 
+|-id=676 bgcolor=#d6d6d6
+| 554676 ||  || — || September 18, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=677 bgcolor=#d6d6d6
+| 554677 ||  || — || October 16, 2006 || Catalina || CSS ||  || align=right | 46 km || 
+|-id=678 bgcolor=#d6d6d6
+| 554678 ||  || — || October 14, 2012 || Kitt Peak || Spacewatch ||  || align=right | 25 km || 
+|-id=679 bgcolor=#fefefe
+| 554679 ||  || — || October 30, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="055" | 550 m || 
+|-id=680 bgcolor=#d6d6d6
+| 554680 ||  || — || October 22, 2012 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=681 bgcolor=#E9E9E9
+| 554681 ||  || — || October 20, 2012 || Kitt Peak || Spacewatch ||  || align=right | 17 km || 
+|-id=682 bgcolor=#E9E9E9
+| 554682 ||  || — || November 22, 2012 || Kitt Peak || Spacewatch ||  || align=right | 12 km || 
+|-id=683 bgcolor=#fefefe
+| 554683 ||  || — || November 26, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="057" | 570 m || 
+|-id=684 bgcolor=#d6d6d6
+| 554684 ||  || — || October 23, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 30 km || 
+|-id=685 bgcolor=#d6d6d6
+| 554685 ||  || — || October 28, 2006 || Catalina || CSS ||  || align=right | 34 km || 
+|-id=686 bgcolor=#fefefe
+| 554686 ||  || — || November 4, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="063" | 630 m || 
+|-id=687 bgcolor=#fefefe
+| 554687 ||  || — || November 17, 2012 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="047" | 470 m || 
+|-id=688 bgcolor=#d6d6d6
+| 554688 ||  || — || November 6, 2012 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=689 bgcolor=#d6d6d6
+| 554689 ||  || — || December 3, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=690 bgcolor=#d6d6d6
+| 554690 ||  || — || December 3, 2012 || Mount Lemmon || Mount Lemmon Survey || 7:4 || align=right | 32 km || 
+|-id=691 bgcolor=#d6d6d6
+| 554691 ||  || — || December 3, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=692 bgcolor=#d6d6d6
+| 554692 ||  || — || November 13, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=693 bgcolor=#fefefe
+| 554693 ||  || — || December 8, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="052" | 520 m || 
+|-id=694 bgcolor=#fefefe
+| 554694 ||  || — || October 10, 2008 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="060" | 600 m || 
+|-id=695 bgcolor=#d6d6d6
+| 554695 ||  || — || August 21, 2006 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=696 bgcolor=#E9E9E9
+| 554696 ||  || — || December 5, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="091" | 910 m || 
+|-id=697 bgcolor=#d6d6d6
+| 554697 ||  || — || October 8, 2001 || Palomar || NEAT ||  || align=right | 25 km || 
+|-id=698 bgcolor=#fefefe
+| 554698 ||  || — || February 17, 2010 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="046" | 460 m || 
+|-id=699 bgcolor=#d6d6d6
+| 554699 ||  || — || September 18, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=700 bgcolor=#fefefe
+| 554700 ||  || — || April 6, 2010 || Bergisch Gladbach || W Bickel ||  || align=right data-sort-value="0.
+76" | 760 m || 
+|}
+
+554701–554800 
+
+|-bgcolor=#fefefe
+| 554701 ||  || — || August 19, 2001 || Cerro Tololo || Cerro Tololo Obs ||  || align=right data-sort-value="0.
+67" | 670 m || 
+|-id=702 bgcolor=#fefefe
+| 554702 ||  || — || August 5, 2005 || Palomar || NEAT ||  || align=right data-sort-value="072" | 720 m || 
+|-id=703 bgcolor=#d6d6d6
+| 554703 ||  || — || September 19, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 27 km || 
+|-id=704 bgcolor=#d6d6d6
+| 554704 ||  || — || October 23, 2012 || Piszkesteto || A Király ||  || align=right | 3.
+2 km || 
+|-id=705 bgcolor=#d6d6d6
+| 554705 ||  || — || November 17, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=706 bgcolor=#d6d6d6
+| 554706 ||  || — || December 6, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 36 km || 
+|-id=707 bgcolor=#d6d6d6
+| 554707 ||  || — || December 19, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=708 bgcolor=#d6d6d6
+| 554708 ||  || — || October 21, 1995 || Kitt Peak || Spacewatch ||  || align=right | 24 km || 
+|-id=709 bgcolor=#E9E9E9
+| 554709 ||  || — || September 17, 2007 || Andrushivka || Y Ivaščenko ||  || align=right | 1.
+9 km || 
+|-id=710 bgcolor=#d6d6d6
+| 554710 ||  || — || December 16, 2007 || Kitt Peak || Spacewatch ||  || align=right | 23 km || 
+|-id=711 bgcolor=#fefefe
+| 554711 ||  || — || August 31, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="065" | 650 m || 
+|-id=712 bgcolor=#d6d6d6
+| 554712 ||  || — || December 5, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=713 bgcolor=#fefefe
+| 554713 ||  || — || December 25, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="072" | 720 m || 
+|-id=714 bgcolor=#fefefe
+| 554714 ||  || — || December 6, 2012 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right data-sort-value="0.
+64" | 640 m || 
+|-id=715 bgcolor=#fefefe
+| 554715 ||  || — || November 20, 2012 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right data-sort-value="0.
+89" | 890 m || 
+|-id=716 bgcolor=#d6d6d6
+| 554716 ||  || — || September 25, 2011 || Haleakala || Pan-STARRS || 7:4 || align=right | 35 km || 
+|-id=717 bgcolor=#d6d6d6
+| 554717 ||  || — || December 8, 2012 || Kitt Peak || Spacewatch ||  || align=right | 39 km || 
+|-id=718 bgcolor=#d6d6d6
+| 554718 ||  || — || December 9, 2012 || Haleakala || Pan-STARRS ||  || align=right | 26 km || 
+|-id=719 bgcolor=#d6d6d6
+| 554719 ||  || — || September 18, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=720 bgcolor=#d6d6d6
+| 554720 ||  || — || May 13, 2004 || Kitt Peak || Spacewatch || EOS || align=right | 20 km || 
+|-id=721 bgcolor=#d6d6d6
+| 554721 ||  || — || August 2, 2000 || Kitt Peak || Spacewatch ||  || align=right | 27 km || 
+|-id=722 bgcolor=#d6d6d6
+| 554722 ||  || — || December 9, 2012 || Haleakala || Pan-STARRS ||  || align=right | 30 km || 
+|-id=723 bgcolor=#d6d6d6
+| 554723 ||  || — || September 25, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=724 bgcolor=#d6d6d6
+| 554724 ||  || — || January 11, 2008 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=725 bgcolor=#d6d6d6
+| 554725 ||  || — || October 19, 2012 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=726 bgcolor=#d6d6d6
+| 554726 ||  || — || October 11, 2006 || Palomar || NEAT ||  || align=right | 29 km || 
+|-id=727 bgcolor=#fefefe
+| 554727 ||  || — || October 28, 2005 || Catalina || CSS ||  || align=right data-sort-value="065" | 650 m || 
+|-id=728 bgcolor=#fefefe
+| 554728 ||  || — || December 6, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="059" | 590 m || 
+|-id=729 bgcolor=#fefefe
+| 554729 ||  || — || December 6, 2012 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem || H || align=right data-sort-value="0.
+76" | 760 m || 
+|-id=730 bgcolor=#d6d6d6
+| 554730 ||  || — || November 16, 2012 || Haleakala || Pan-STARRS ||  || align=right | 35 km || 
+|-id=731 bgcolor=#fefefe
+| 554731 ||  || — || November 12, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="058" | 580 m || 
+|-id=732 bgcolor=#d6d6d6
+| 554732 ||  || — || November 7, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 31 km || 
+|-id=733 bgcolor=#fefefe
+| 554733 ||  || — || December 4, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="051" | 510 m || 
+|-id=734 bgcolor=#d6d6d6
+| 554734 ||  || — || December 24, 2006 || Gnosca || S Sposetti ||  || align=right | 2.
+7 km || 
+|-id=735 bgcolor=#d6d6d6
+| 554735 ||  || — || December 11, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 26 km || 
+|-id=736 bgcolor=#d6d6d6
+| 554736 ||  || — || December 4, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=737 bgcolor=#fefefe
+| 554737 ||  || — || December 3, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="065" | 650 m || 
+|-id=738 bgcolor=#d6d6d6
+| 554738 ||  || — || September 16, 2006 || Siding Spring || SSS ||  || align=right | 27 km || 
+|-id=739 bgcolor=#fefefe
+| 554739 ||  || — || August 16, 2001 || Palomar || NEAT || H || align=right data-sort-value="073" | 730 m || 
+|-id=740 bgcolor=#fefefe
+| 554740 ||  || — || March 24, 2003 || Apache Point || SDSS Collaboration || H || align=right data-sort-value="069" | 690 m || 
+|-id=741 bgcolor=#fefefe
+| 554741 ||  || — || December 23, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="065" | 650 m || 
+|-id=742 bgcolor=#fefefe
+| 554742 ||  || — || December 21, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="066" | 660 m || 
+|-id=743 bgcolor=#fefefe
+| 554743 ||  || — || October 23, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="055" | 550 m || 
+|-id=744 bgcolor=#d6d6d6
+| 554744 ||  || — || November 20, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 35 km || 
+|-id=745 bgcolor=#fefefe
+| 554745 ||  || — || January 3, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 10 km || 
+|-id=746 bgcolor=#fefefe
+| 554746 ||  || — || May 25, 2011 || Kitt Peak || Spacewatch || H || align=right data-sort-value="052" | 520 m || 
+|-id=747 bgcolor=#E9E9E9
+| 554747 ||  || — || December 22, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="083" | 830 m || 
+|-id=748 bgcolor=#d6d6d6
+| 554748 ||  || — || December 30, 2007 || Kitt Peak || Spacewatch ||  || align=right | 29 km || 
+|-id=749 bgcolor=#fefefe
+| 554749 ||  || — || January 5, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="057" | 570 m || 
+|-id=750 bgcolor=#fefefe
+| 554750 ||  || — || September 24, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="083" | 830 m || 
+|-id=751 bgcolor=#fefefe
+| 554751 ||  || — || January 5, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="057" | 570 m || 
+|-id=752 bgcolor=#fefefe
+| 554752 ||  || — || January 5, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="063" | 630 m || 
+|-id=753 bgcolor=#fefefe
+| 554753 ||  || — || October 15, 2004 || Anderson Mesa || LONEOS ||  || align=right data-sort-value="087" | 870 m || 
+|-id=754 bgcolor=#d6d6d6
+| 554754 ||  || — || January 7, 2013 || Kitt Peak || Spacewatch || Tj (298) || align=right | 2.
+9 km || 
+|-id=755 bgcolor=#fefefe
+| 554755 ||  || — || June 2, 2011 || Haleakala || Pan-STARRS || H || align=right data-sort-value="066" | 660 m || 
+|-id=756 bgcolor=#E9E9E9
+| 554756 ||  || — || December 1, 2008 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="098" | 980 m || 
+|-id=757 bgcolor=#fefefe
+| 554757 ||  || — || December 22, 2012 || Piszkesteto || K Sárneczky, G.
+ Hodosán ||  || align=right data-sort-value="0.
+82" | 820 m || 
+|-id=758 bgcolor=#d6d6d6
+| 554758 ||  || — || December 18, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 29 km || 
+|-id=759 bgcolor=#fefefe
+| 554759 ||  || — || January 11, 1994 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="059" | 590 m || 
+|-id=760 bgcolor=#fefefe
+| 554760 ||  || — || July 22, 2011 || Haleakala || Pan-STARRS || H || align=right data-sort-value="064" | 640 m || 
+|-id=761 bgcolor=#fefefe
+| 554761 ||  || — || October 25, 2008 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="054" | 540 m || 
+|-id=762 bgcolor=#fefefe
+| 554762 ||  || — || December 23, 2012 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="055" | 550 m || 
+|-id=763 bgcolor=#fefefe
+| 554763 ||  || — || December 7, 2012 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="059" | 590 m || 
+|-id=764 bgcolor=#fefefe
+| 554764 ||  || — || January 4, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="071" | 710 m || 
+|-id=765 bgcolor=#d6d6d6
+| 554765 ||  || — || December 7, 2012 || ASC-Kislovodsk || V Nevski || Tj (2.
+99) || align=right | 3.
+5 km || 
+|-id=766 bgcolor=#fefefe
+| 554766 ||  || — || December 17, 2012 || ESA OGS || ESA OGS ||  || align=right data-sort-value="074" | 740 m || 
+|-id=767 bgcolor=#fefefe
+| 554767 ||  || — || January 7, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="060" | 600 m || 
+|-id=768 bgcolor=#fefefe
+| 554768 ||  || — || January 28, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="067" | 670 m || 
+|-id=769 bgcolor=#fefefe
+| 554769 ||  || — || October 7, 2005 || Mauna Kea || Mauna Kea Obs ||  || align=right data-sort-value="0.
+87" | 870 m || 
+|-id=770 bgcolor=#fefefe
+| 554770 ||  || — || November 19, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="061" | 610 m || 
+|-id=771 bgcolor=#fefefe
+| 554771 ||  || — || January 13, 2013 || ESA OGS || ESA OGS ||  || align=right data-sort-value="075" | 750 m || 
+|-id=772 bgcolor=#E9E9E9
+| 554772 ||  || — || January 13, 2013 || Catalina || CSS ||  || align=right data-sort-value="096" | 960 m || 
+|-id=773 bgcolor=#d6d6d6
+| 554773 ||  || — || November 26, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 33 km || 
+|-id=774 bgcolor=#d6d6d6
+| 554774 ||  || — || November 26, 2012 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 28 km || 
+|-id=775 bgcolor=#fefefe
+| 554775 ||  || — || January 11, 2013 || Haleakala || Pan-STARRS || H || align=right data-sort-value="051" | 510 m || 
+|-id=776 bgcolor=#fefefe
+| 554776 ||  || — || January 10, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="077" | 770 m || 
+|-id=777 bgcolor=#fefefe
+| 554777 ||  || — || October 20, 2012 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="057" | 570 m || 
+|-id=778 bgcolor=#fefefe
+| 554778 ||  || — || January 13, 2013 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right data-sort-value="0.
+67" | 670 m || 
+|-id=779 bgcolor=#d6d6d6
+| 554779 ||  || — || September 28, 2011 || Kitt Peak || Spacewatch ||  || align=right | 21 km || 
+|-id=780 bgcolor=#C2E0FF
+| 554780 ||  || — || January 15, 2012 || Haleakala || Pan-STARRS || cubewano (cold)critical || align=right | 192 km || 
+|-id=781 bgcolor=#d6d6d6
+| 554781 ||  || — || January 5, 2013 || Kitt Peak || Spacewatch ||  || align=right | 28 km || 
+|-id=782 bgcolor=#d6d6d6
+| 554782 ||  || — || January 10, 2013 || Haleakala || Pan-STARRS || 7:4 || align=right | 29 km || 
+|-id=783 bgcolor=#fefefe
+| 554783 ||  || — || January 10, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="068" | 680 m || 
+|-id=784 bgcolor=#fefefe
+| 554784 ||  || — || September 6, 2015 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="079" | 790 m || 
+|-id=785 bgcolor=#fefefe
+| 554785 ||  || — || January 10, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="073" | 730 m || 
+|-id=786 bgcolor=#fefefe
+| 554786 ||  || — || January 13, 2013 || Catalina || CSS || H || align=right data-sort-value="062" | 620 m || 
+|-id=787 bgcolor=#fefefe
+| 554787 ||  || — || January 14, 2013 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="044" | 440 m || 
+|-id=788 bgcolor=#fefefe
+| 554788 ||  || — || December 5, 2005 || Goodricke-Pigott || R A.
+ Tucker ||  || align=right data-sort-value="0.
+63" | 630 m || 
+|-id=789 bgcolor=#E9E9E9
+| 554789 ||  || — || January 17, 2013 || Haleakala || Pan-STARRS ||  || align=right | 14 km || 
+|-id=790 bgcolor=#fefefe
+| 554790 ||  || — || October 1, 2011 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="084" | 840 m || 
+|-id=791 bgcolor=#E9E9E9
+| 554791 ||  || — || January 8, 2013 || Kitt Peak || Spacewatch ||  || align=right | 22 km || 
+|-id=792 bgcolor=#fefefe
+| 554792 ||  || — || January 16, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="064" | 640 m || 
+|-id=793 bgcolor=#d6d6d6
+| 554793 ||  || — || September 17, 2006 || Kitt Peak || Spacewatch ||  || align=right | 19 km || 
+|-id=794 bgcolor=#d6d6d6
+| 554794 ||  || — || January 17, 2013 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=795 bgcolor=#fefefe
+| 554795 ||  || — || October 28, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="058" | 580 m || 
+|-id=796 bgcolor=#fefefe
+| 554796 ||  || — || March 23, 2006 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="050" | 500 m || 
+|-id=797 bgcolor=#fefefe
+| 554797 ||  || — || July 13, 2001 || Palomar || NEAT ||  || align=right data-sort-value="079" | 790 m || 
+|-id=798 bgcolor=#fefefe
+| 554798 ||  || — || March 23, 2006 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="060" | 600 m || 
+|-id=799 bgcolor=#fefefe
+| 554799 ||  || — || September 4, 2004 || Palomar || NEAT ||  || align=right data-sort-value="092" | 920 m || 
+|-id=800 bgcolor=#fefefe
+| 554800 ||  || — || January 10, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="065" | 650 m || 
+|}
+
+554801–554900 
+
+|-bgcolor=#d6d6d6
+| 554801 ||  || — || May 7, 2008 || Kitt Peak || Spacewatch || 7:4 || align=right | 36 km || 
+|-id=802 bgcolor=#fefefe
+| 554802 ||  || — || January 19, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="088" | 880 m || 
+|-id=803 bgcolor=#fefefe
+| 554803 ||  || — || January 31, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="070" | 700 m || 
+|-id=804 bgcolor=#fefefe
+| 554804 ||  || — || January 17, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="070" | 700 m || 
+|-id=805 bgcolor=#d6d6d6
+| 554805 ||  || — || January 17, 2013 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=806 bgcolor=#E9E9E9
+| 554806 ||  || — || January 17, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 11 km || 
+|-id=807 bgcolor=#fefefe
+| 554807 ||  || — || January 16, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="065" | 650 m || 
+|-id=808 bgcolor=#E9E9E9
+| 554808 ||  || — || January 10, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="078" | 780 m || 
+|-id=809 bgcolor=#E9E9E9
+| 554809 ||  || — || July 28, 2011 || Haleakala || Pan-STARRS ||  || align=right | 16 km || 
+|-id=810 bgcolor=#fefefe
+| 554810 ||  || — || February 1, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="064" | 640 m || 
+|-id=811 bgcolor=#E9E9E9
+| 554811 ||  || — || February 3, 2013 || Haleakala || Pan-STARRS ||  || align=right | 22 km || 
+|-id=812 bgcolor=#fefefe
+| 554812 ||  || — || March 24, 2006 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="050" | 500 m || 
+|-id=813 bgcolor=#fefefe
+| 554813 ||  || — || December 3, 2005 || Mauna Kea || Mauna Kea Obs ||  || align=right data-sort-value="0.
+87" | 870 m || 
+|-id=814 bgcolor=#E9E9E9
+| 554814 ||  || — || February 19, 2009 || Kitt Peak || Spacewatch ||  || align=right | 18 km || 
+|-id=815 bgcolor=#fefefe
+| 554815 ||  || — || January 17, 2013 || Catalina || CSS || H || align=right data-sort-value="058" | 580 m || 
+|-id=816 bgcolor=#fefefe
+| 554816 ||  || — || February 6, 2013 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right data-sort-value="0.
+67" | 670 m || 
+|-id=817 bgcolor=#E9E9E9
+| 554817 ||  || — || February 19, 2009 || Catalina || CSS ||  || align=right data-sort-value="063" | 630 m || 
+|-id=818 bgcolor=#fefefe
+| 554818 ||  || — || January 9, 2013 || Kitt Peak || Spacewatch || H || align=right data-sort-value="048" | 480 m || 
+|-id=819 bgcolor=#fefefe
+| 554819 ||  || — || February 9, 2013 || Oukaimeden || C Rinner ||  || align=right data-sort-value="0.
+65" | 650 m || 
+|-id=820 bgcolor=#fefefe
+| 554820 ||  || — || March 4, 2005 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="053" | 530 m || 
+|-id=821 bgcolor=#E9E9E9
+| 554821 ||  || — || February 2, 2013 || Haleakala || Pan-STARRS ||  || align=right | 11 km || 
+|-id=822 bgcolor=#fefefe
+| 554822 ||  || — || August 28, 2011 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="079" | 790 m || 
+|-id=823 bgcolor=#fefefe
+| 554823 ||  || — || September 3, 2000 || Apache Point || SDSS Collaboration ||  || align=right data-sort-value="080" | 800 m || 
+|-id=824 bgcolor=#d6d6d6
+| 554824 ||  || — || February 8, 2013 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=825 bgcolor=#fefefe
+| 554825 ||  || — || February 6, 2013 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem || H || align=right data-sort-value="0.
+52" | 520 m || 
+|-id=826 bgcolor=#fefefe
+| 554826 ||  || — || February 8, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="066" | 660 m || 
+|-id=827 bgcolor=#fefefe
+| 554827 ||  || — || January 10, 2006 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="090" | 900 m || 
+|-id=828 bgcolor=#fefefe
+| 554828 ||  || — || December 4, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="069" | 690 m || 
+|-id=829 bgcolor=#fefefe
+| 554829 ||  || — || August 27, 2011 || Dauban || C Rinner, F.
+ Kugel ||  || align=right data-sort-value="0.
+80" | 800 m || 
+|-id=830 bgcolor=#fefefe
+| 554830 ||  || — || January 17, 2013 || Kitt Peak || Spacewatch || MAS || align=right data-sort-value="052" | 520 m || 
+|-id=831 bgcolor=#d6d6d6
+| 554831 ||  || — || February 8, 2013 || Haleakala || Pan-STARRS ||  || align=right | 25 km || 
+|-id=832 bgcolor=#fefefe
+| 554832 ||  || — || February 6, 2002 || Kitt Peak || R Millis, M.
+ W.
+ Buie || NYS || align=right data-sort-value="0.
+57" | 570 m || 
+|-id=833 bgcolor=#E9E9E9
+| 554833 ||  || — || October 16, 2007 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 10 km || 
+|-id=834 bgcolor=#d6d6d6
+| 554834 ||  || — || February 8, 2013 || Haleakala || Pan-STARRS ||  || align=right | 17 km || 
+|-id=835 bgcolor=#E9E9E9
+| 554835 ||  || — || February 10, 2013 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem || EUN || align=right data-sort-value="0.
+90" | 900 m || 
+|-id=836 bgcolor=#fefefe
+| 554836 ||  || — || February 13, 2013 || Haleakala || Pan-STARRS || H || align=right data-sort-value="058" | 580 m || 
+|-id=837 bgcolor=#E9E9E9
+| 554837 ||  || — || February 7, 2013 || Catalina || CSS ||  || align=right data-sort-value="096" | 960 m || 
+|-id=838 bgcolor=#fefefe
+| 554838 ||  || — || January 20, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="070" | 700 m || 
+|-id=839 bgcolor=#C2FFFF
+| 554839 ||  || — || February 14, 2013 || Kitt Peak || Spacewatch || L4 || align=right | 77 km || 
+|-id=840 bgcolor=#fefefe
+| 554840 ||  || — || February 14, 2013 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="059" | 590 m || 
+|-id=841 bgcolor=#fefefe
+| 554841 ||  || — || March 3, 2006 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="063" | 630 m || 
+|-id=842 bgcolor=#fefefe
+| 554842 ||  || — || January 3, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="048" | 480 m || 
+|-id=843 bgcolor=#d6d6d6
+| 554843 ||  || — || February 14, 2013 || Kitt Peak || Spacewatch || 7:4 || align=right | 35 km || 
+|-id=844 bgcolor=#fefefe
+| 554844 ||  || — || May 24, 2006 || Palomar || NEAT || NYS || align=right data-sort-value="067" | 670 m || 
+|-id=845 bgcolor=#d6d6d6
+| 554845 ||  || — || March 27, 2008 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=846 bgcolor=#fefefe
+| 554846 ||  || — || February 5, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="057" | 570 m || 
+|-id=847 bgcolor=#fefefe
+| 554847 ||  || — || February 14, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="065" | 650 m || 
+|-id=848 bgcolor=#E9E9E9
+| 554848 ||  || — || January 20, 2013 || Kitt Peak || Spacewatch ||  || align=right | 12 km || 
+|-id=849 bgcolor=#E9E9E9
+| 554849 ||  || — || February 15, 2013 || Haleakala || Pan-STARRS ||  || align=right | 19 km || 
+|-id=850 bgcolor=#fefefe
+| 554850 ||  || — || January 19, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="064" | 640 m || 
+|-id=851 bgcolor=#d6d6d6
+| 554851 ||  || — || January 14, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 22 km || 
+|-id=852 bgcolor=#E9E9E9
+| 554852 ||  || — || August 23, 2003 || Palomar || NEAT ||  || align=right data-sort-value="098" | 980 m || 
+|-id=853 bgcolor=#d6d6d6
+| 554853 ||  || — || June 15, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 30 km || 
+|-id=854 bgcolor=#E9E9E9
+| 554854 ||  || — || February 5, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 13 km || 
+|-id=855 bgcolor=#fefefe
+| 554855 ||  || — || February 15, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="066" | 660 m || 
+|-id=856 bgcolor=#C2E0FF
+| 554856 ||  || — || January 21, 2013 || Haleakala || Pan-STARRS || twotinocritical || align=right | 257 km || 
+|-id=857 bgcolor=#E9E9E9
+| 554857 ||  || — || September 30, 2016 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=858 bgcolor=#E9E9E9
+| 554858 ||  || — || February 3, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="079" | 790 m || 
+|-id=859 bgcolor=#d6d6d6
+| 554859 ||  || — || February 28, 2014 || Haleakala || Pan-STARRS || 7:4 || align=right | 29 km || 
+|-id=860 bgcolor=#fefefe
+| 554860 ||  || — || February 9, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="069" | 690 m || 
+|-id=861 bgcolor=#fefefe
+| 554861 ||  || — || October 15, 2015 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="059" | 590 m || 
+|-id=862 bgcolor=#fefefe
+| 554862 ||  || — || February 15, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="059" | 590 m || 
+|-id=863 bgcolor=#d6d6d6
+| 554863 ||  || — || February 9, 2013 || Haleakala || Pan-STARRS ||  || align=right | 17 km || 
+|-id=864 bgcolor=#E9E9E9
+| 554864 ||  || — || February 14, 2013 || Haleakala || Pan-STARRS ||  || align=right | 18 km || 
+|-id=865 bgcolor=#E9E9E9
+| 554865 ||  || — || February 5, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 10 km || 
+|-id=866 bgcolor=#fefefe
+| 554866 ||  || — || February 13, 2013 || Haleakala || Pan-STARRS || H || align=right data-sort-value="049" | 490 m || 
+|-id=867 bgcolor=#fefefe
+| 554867 ||  || — || October 24, 2008 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="050" | 500 m || 
+|-id=868 bgcolor=#fefefe
+| 554868 ||  || — || February 16, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="067" | 670 m || 
+|-id=869 bgcolor=#FA8072
+| 554869 ||  || — || September 15, 2009 || Kitt Peak || Spacewatch || H || align=right data-sort-value="060" | 600 m || 
+|-id=870 bgcolor=#fefefe
+| 554870 ||  || — || March 10, 2008 || Kitt Peak || Spacewatch || H || align=right data-sort-value="056" | 560 m || 
+|-id=871 bgcolor=#E9E9E9
+| 554871 ||  || — || March 4, 2013 || Haleakala || Pan-STARRS ||  || align=right | 11 km || 
+|-id=872 bgcolor=#fefefe
+| 554872 ||  || — || December 29, 2008 || Mount Lemmon || Mount Lemmon Survey || MAS || align=right data-sort-value="056" | 560 m || 
+|-id=873 bgcolor=#fefefe
+| 554873 ||  || — || September 23, 2011 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="073" | 730 m || 
+|-id=874 bgcolor=#d6d6d6
+| 554874 ||  || — || March 7, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 25 km || 
+|-id=875 bgcolor=#FA8072
+| 554875 ||  || — || March 6, 2013 || Haleakala || Pan-STARRS || H || align=right data-sort-value="059" | 590 m || 
+|-id=876 bgcolor=#E9E9E9
+| 554876 ||  || — || January 18, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=877 bgcolor=#fefefe
+| 554877 ||  || — || February 1, 2009 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="054" | 540 m || 
+|-id=878 bgcolor=#fefefe
+| 554878 ||  || — || January 17, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="071" | 710 m || 
+|-id=879 bgcolor=#fefefe
+| 554879 ||  || — || October 2, 2011 || Piszkesteto || K Sárneczky, T.
+ Szalai ||  || align=right | 1.
+0 km || 
+|-id=880 bgcolor=#fefefe
+| 554880 ||  || — || January 25, 2009 || Kitt Peak || Spacewatch || NYS || align=right data-sort-value="046" | 460 m || 
+|-id=881 bgcolor=#fefefe
+| 554881 ||  || — || September 20, 2011 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="068" | 680 m || 
+|-id=882 bgcolor=#fefefe
+| 554882 ||  || — || March 6, 2006 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="064" | 640 m || 
+|-id=883 bgcolor=#fefefe
+| 554883 ||  || — || October 22, 2003 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="072" | 720 m || 
+|-id=884 bgcolor=#fefefe
+| 554884 ||  || — || February 1, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="084" | 840 m || 
+|-id=885 bgcolor=#fefefe
+| 554885 ||  || — || February 7, 2013 || Catalina || CSS || H || align=right data-sort-value="071" | 710 m || 
+|-id=886 bgcolor=#E9E9E9
+| 554886 ||  || — || March 3, 2013 || Nogales || M Schwartz, P.
+ R.
+ Holvorcem ||  || align=right | 1.
+6 km || 
+|-id=887 bgcolor=#E9E9E9
+| 554887 ||  || — || August 29, 2002 || Palomar || NEAT || MAR || align=right | 12 km || 
+|-id=888 bgcolor=#E9E9E9
+| 554888 ||  || — || September 12, 2002 || Palomar || NEAT ||  || align=right | 12 km || 
+|-id=889 bgcolor=#fefefe
+| 554889 ||  || — || March 8, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="060" | 600 m || 
+|-id=890 bgcolor=#d6d6d6
+| 554890 ||  || — || September 30, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 21 km || 
+|-id=891 bgcolor=#fefefe
+| 554891 ||  || — || September 21, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="075" | 750 m || 
+|-id=892 bgcolor=#E9E9E9
+| 554892 ||  || — || March 10, 2013 || La Silla || La Silla Obs ||  || align=right data-sort-value="0.
+85" | 850 m || 
+|-id=893 bgcolor=#E9E9E9
+| 554893 ||  || — || March 11, 2013 || Kitt Peak || Spacewatch ||  || align=right | 13 km || 
+|-id=894 bgcolor=#fefefe
+| 554894 ||  || — || March 15, 2013 || Palomar || PTF || H || align=right data-sort-value="072" | 720 m || 
+|-id=895 bgcolor=#C2FFFF
+| 554895 ||  || — || February 5, 2013 || Mount Lemmon || Mount Lemmon Survey || L4 || align=right | 64 km || 
+|-id=896 bgcolor=#fefefe
+| 554896 ||  || — || March 12, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="061" | 610 m || 
+|-id=897 bgcolor=#fefefe
+| 554897 ||  || — || March 11, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="063" | 630 m || 
+|-id=898 bgcolor=#d6d6d6
+| 554898 ||  || — || March 13, 2013 || Haleakala || Pan-STARRS || 3:2 || align=right | 38 km || 
+|-id=899 bgcolor=#fefefe
+| 554899 ||  || — || September 4, 2011 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="053" | 530 m || 
+|-id=900 bgcolor=#fefefe
+| 554900 ||  || — || March 5, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="071" | 710 m || 
+|}
+
+554901–555000 
+
+|-bgcolor=#E9E9E9
+| 554901 ||  || — || March 12, 2013 || Kitt Peak || M W.
+ Buie ||  || align=right data-sort-value="0.
+72" | 720 m || 
+|-id=902 bgcolor=#E9E9E9
+| 554902 ||  || — || March 4, 2013 || Haleakala || Pan-STARRS ||  || align=right | 16 km || 
+|-id=903 bgcolor=#C2FFFF
+| 554903 ||  || — || October 18, 2009 || Mount Lemmon || Mount Lemmon Survey || L4 || align=right | 62 km || 
+|-id=904 bgcolor=#fefefe
+| 554904 ||  || — || March 14, 2013 || Palomar || PTF || H || align=right data-sort-value="051" | 510 m || 
+|-id=905 bgcolor=#fefefe
+| 554905 ||  || — || March 12, 2013 || Kitt Peak || Spacewatch || H || align=right data-sort-value="048" | 480 m || 
+|-id=906 bgcolor=#fefefe
+| 554906 ||  || — || October 31, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="059" | 590 m || 
+|-id=907 bgcolor=#fefefe
+| 554907 ||  || — || March 15, 2002 || Kitt Peak || Spacewatch ||  || align=right | 10 km || 
+|-id=908 bgcolor=#fefefe
+| 554908 ||  || — || March 3, 2013 || Kitt Peak || Spacewatch || H || align=right data-sort-value="054" | 540 m || 
+|-id=909 bgcolor=#E9E9E9
+| 554909 ||  || — || March 10, 2004 || Catalina || CSS ||  || align=right | 25 km || 
+|-id=910 bgcolor=#fefefe
+| 554910 ||  || — || January 13, 2013 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="063" | 630 m || 
+|-id=911 bgcolor=#d6d6d6
+| 554911 ||  || — || March 19, 2013 || Haleakala || Pan-STARRS ||  || align=right | 21 km || 
+|-id=912 bgcolor=#fefefe
+| 554912 ||  || — || September 17, 2006 || Kitt Peak || Spacewatch || H || align=right data-sort-value="045" | 450 m || 
+|-id=913 bgcolor=#E9E9E9
+| 554913 ||  || — || March 18, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="073" | 730 m || 
+|-id=914 bgcolor=#fefefe
+| 554914 ||  || — || March 18, 2009 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="074" | 740 m || 
+|-id=915 bgcolor=#fefefe
+| 554915 ||  || — || February 4, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="065" | 650 m || 
+|-id=916 bgcolor=#fefefe
+| 554916 ||  || — || February 5, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="055" | 550 m || 
+|-id=917 bgcolor=#fefefe
+| 554917 ||  || — || October 22, 2003 || Apache Point || SDSS Collaboration ||  || align=right | 12 km || 
+|-id=918 bgcolor=#E9E9E9
+| 554918 ||  || — || April 3, 2013 || Palomar || PTF ||  || align=right | 23 km || 
+|-id=919 bgcolor=#fefefe
+| 554919 ||  || — || April 3, 2013 || Palomar || PTF || H || align=right data-sort-value="070" | 700 m || 
+|-id=920 bgcolor=#fefefe
+| 554920 ||  || — || April 5, 2013 || Palomar || PTF || H || align=right data-sort-value="059" | 590 m || 
+|-id=921 bgcolor=#FA8072
+| 554921 ||  || — || April 2, 2013 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="045" | 450 m || 
+|-id=922 bgcolor=#d6d6d6
+| 554922 ||  || — || August 22, 2007 || Kitt Peak || Spacewatch || 3:2 || align=right | 38 km || 
+|-id=923 bgcolor=#E9E9E9
+| 554923 ||  || — || November 1, 2011 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="072" | 720 m || 
+|-id=924 bgcolor=#E9E9E9
+| 554924 ||  || — || March 16, 2013 || Kitt Peak || Spacewatch ||  || align=right | 11 km || 
+|-id=925 bgcolor=#E9E9E9
+| 554925 ||  || — || April 8, 2013 || Kitt Peak || Spacewatch ||  || align=right | 20 km || 
+|-id=926 bgcolor=#d6d6d6
+| 554926 ||  || — || April 4, 2005 || Mount Lemmon || Mount Lemmon Survey || 3:2 || align=right | 34 km || 
+|-id=927 bgcolor=#E9E9E9
+| 554927 ||  || — || March 5, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 16 km || 
+|-id=928 bgcolor=#E9E9E9
+| 554928 ||  || — || January 28, 2004 || Kitt Peak || Spacewatch ||  || align=right | 19 km || 
+|-id=929 bgcolor=#fefefe
+| 554929 ||  || — || April 12, 2013 || Haleakala || Pan-STARRS || H || align=right data-sort-value="042" | 420 m || 
+|-id=930 bgcolor=#E9E9E9
+| 554930 ||  || — || November 16, 2002 || Mount Lemmon || NEAT ||  || align=right | 18 km || 
+|-id=931 bgcolor=#fefefe
+| 554931 ||  || — || March 8, 2005 || Catalina || CSS ||  || align=right | 11 km || 
+|-id=932 bgcolor=#fefefe
+| 554932 ||  || — || October 20, 2003 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="096" | 960 m || 
+|-id=933 bgcolor=#E9E9E9
+| 554933 ||  || — || March 13, 2013 || Catalina || CSS ||  || align=right | 17 km || 
+|-id=934 bgcolor=#E9E9E9
+| 554934 ||  || — || March 17, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 17 km || 
+|-id=935 bgcolor=#fefefe
+| 554935 ||  || — || August 17, 2006 || Palomar || NEAT ||  || align=right data-sort-value="069" | 690 m || 
+|-id=936 bgcolor=#fefefe
+| 554936 ||  || — || March 29, 2009 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="067" | 670 m || 
+|-id=937 bgcolor=#fefefe
+| 554937 ||  || — || April 3, 2013 || Palomar || PTF || H || align=right data-sort-value="060" | 600 m || 
+|-id=938 bgcolor=#fefefe
+| 554938 ||  || — || April 11, 2013 || Kitt Peak || Spacewatch || H || align=right data-sort-value="059" | 590 m || 
+|-id=939 bgcolor=#fefefe
+| 554939 ||  || — || March 5, 2002 || Apache Point || SDSS Collaboration ||  || align=right data-sort-value="086" | 860 m || 
+|-id=940 bgcolor=#d6d6d6
+| 554940 ||  || — || March 6, 2013 || Haleakala || Pan-STARRS ||  || align=right | 36 km || 
+|-id=941 bgcolor=#d6d6d6
+| 554941 ||  || — || April 13, 2013 || Haleakala || Pan-STARRS ||  || align=right | 24 km || 
+|-id=942 bgcolor=#E9E9E9
+| 554942 ||  || — || September 18, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 12 km || 
+|-id=943 bgcolor=#E9E9E9
+| 554943 ||  || — || April 12, 2013 || Haleakala || Pan-STARRS ||  || align=right | 17 km || 
+|-id=944 bgcolor=#E9E9E9
+| 554944 ||  || — || April 11, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 100 km || 
+|-id=945 bgcolor=#fefefe
+| 554945 ||  || — || April 11, 2013 || ESA OGS || ESA OGS || H || align=right data-sort-value="062" | 620 m || 
+|-id=946 bgcolor=#E9E9E9
+| 554946 ||  || — || December 4, 2015 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="065" | 650 m || 
+|-id=947 bgcolor=#fefefe
+| 554947 ||  || — || April 10, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="053" | 530 m || 
+|-id=948 bgcolor=#d6d6d6
+| 554948 ||  || — || April 3, 2013 || Palomar || PTF ||  || align=right | 29 km || 
+|-id=949 bgcolor=#fefefe
+| 554949 ||  || — || April 7, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="049" | 490 m || 
+|-id=950 bgcolor=#d6d6d6
+| 554950 ||  || — || April 10, 2013 || Haleakala || Pan-STARRS ||  || align=right | 19 km || 
+|-id=951 bgcolor=#fefefe
+| 554951 ||  || — || April 11, 2013 || Palomar || PTF || H || align=right data-sort-value="069" | 690 m || 
+|-id=952 bgcolor=#FA8072
+| 554952 ||  || — || April 9, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="052" | 520 m || 
+|-id=953 bgcolor=#E9E9E9
+| 554953 ||  || — || October 23, 2011 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="063" | 630 m || 
+|-id=954 bgcolor=#E9E9E9
+| 554954 ||  || — || November 19, 2006 || Kitt Peak || Spacewatch ||  || align=right | 20 km || 
+|-id=955 bgcolor=#d6d6d6
+| 554955 ||  || — || April 16, 2013 || Cerro Tololo-DECam || CTIO-DECam ||  || align=right | 15 km || 
+|-id=956 bgcolor=#E9E9E9
+| 554956 ||  || — || April 9, 2013 || Haleakala || Pan-STARRS ||  || align=right | 13 km || 
+|-id=957 bgcolor=#fefefe
+| 554957 ||  || — || April 9, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="076" | 760 m || 
+|-id=958 bgcolor=#fefefe
+| 554958 ||  || — || October 21, 2003 || Kitt Peak || Spacewatch || V || align=right data-sort-value="057" | 570 m || 
+|-id=959 bgcolor=#E9E9E9
+| 554959 ||  || — || December 4, 2010 || Piszkesteto || Z Kuli, K.
+ Sárneczky ||  || align=right | 1.
+1 km || 
+|-id=960 bgcolor=#E9E9E9
+| 554960 ||  || — || October 3, 2002 || Palomar || NEAT ||  || align=right | 17 km || 
+|-id=961 bgcolor=#d6d6d6
+| 554961 ||  || — || March 15, 2013 || Kitt Peak || Spacewatch || SHU3:2 || align=right | 43 km || 
+|-id=962 bgcolor=#E9E9E9
+| 554962 ||  || — || November 19, 2007 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="063" | 630 m || 
+|-id=963 bgcolor=#E9E9E9
+| 554963 ||  || — || April 16, 2013 || Cerro Tololo-DECam || CTIO-DECam ||  || align=right data-sort-value="060" | 600 m || 
+|-id=964 bgcolor=#E9E9E9
+| 554964 ||  || — || August 29, 2006 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="091" | 910 m || 
+|-id=965 bgcolor=#E9E9E9
+| 554965 ||  || — || October 1, 2011 || Kitt Peak || Spacewatch ||  || align=right | 10 km || 
+|-id=966 bgcolor=#E9E9E9
+| 554966 ||  || — || April 9, 2013 || Haleakala || Pan-STARRS ||  || align=right | 11 km || 
+|-id=967 bgcolor=#d6d6d6
+| 554967 ||  || — || April 6, 2005 || Mount Lemmon || Mount Lemmon Survey || 3:2 || align=right | 37 km || 
+|-id=968 bgcolor=#E9E9E9
+| 554968 ||  || — || October 10, 2010 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="067" | 670 m || 
+|-id=969 bgcolor=#E9E9E9
+| 554969 ||  || — || October 26, 2011 || Haleakala || Pan-STARRS ||  || align=right | 11 km || 
+|-id=970 bgcolor=#fefefe
+| 554970 ||  || — || April 10, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="079" | 790 m || 
+|-id=971 bgcolor=#fefefe
+| 554971 ||  || — || May 3, 2013 || Haleakala || Pan-STARRS || H || align=right data-sort-value="066" | 660 m || 
+|-id=972 bgcolor=#FA8072
+| 554972 ||  || — || January 9, 2000 || Kitt Peak || Spacewatch ||  || align=right | 13 km || 
+|-id=973 bgcolor=#fefefe
+| 554973 ||  || — || October 31, 2006 || Mount Lemmon || Mount Lemmon Survey || H || align=right data-sort-value="049" | 490 m || 
+|-id=974 bgcolor=#E9E9E9
+| 554974 ||  || — || May 5, 2013 || Haleakala || Pan-STARRS ||  || align=right | 10 km || 
+|-id=975 bgcolor=#fefefe
+| 554975 ||  || — || September 27, 2011 || Haleakala || Pan-STARRS || H || align=right data-sort-value="055" | 550 m || 
+|-id=976 bgcolor=#E9E9E9
+| 554976 ||  || — || May 15, 2005 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="084" | 840 m || 
+|-id=977 bgcolor=#E9E9E9
+| 554977 ||  || — || April 19, 2013 || Haleakala || Pan-STARRS ||  || align=right | 16 km || 
+|-id=978 bgcolor=#E9E9E9
+| 554978 ||  || — || May 10, 2013 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="078" | 780 m || 
+|-id=979 bgcolor=#E9E9E9
+| 554979 ||  || — || April 26, 2004 || Mauna Kea || Mauna Kea Obs ||  || align=right | 1.
+2 km || 
+|-id=980 bgcolor=#E9E9E9
+| 554980 ||  || — || June 13, 2005 || Kitt Peak || Spacewatch ||  || align=right data-sort-value="081" | 810 m || 
+|-id=981 bgcolor=#E9E9E9
+| 554981 ||  || — || April 15, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="076" | 760 m || 
+|-id=982 bgcolor=#C2E0FF
+| 554982 ||  || — || May 5, 2013 || Haleakala || Pan-STARRS || cubewano (cold)critical || align=right | 238 km || 
+|-id=983 bgcolor=#fefefe
+| 554983 ||  || — || August 28, 2014 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="076" | 760 m || 
+|-id=984 bgcolor=#E9E9E9
+| 554984 ||  || — || May 12, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 12 km || 
+|-id=985 bgcolor=#E9E9E9
+| 554985 ||  || — || December 7, 2015 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="089" | 890 m || 
+|-id=986 bgcolor=#fefefe
+| 554986 ||  || — || May 3, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="045" | 450 m || 
+|-id=987 bgcolor=#d6d6d6
+| 554987 ||  || — || May 12, 2013 || Haleakala || Pan-STARRS ||  || align=right | 29 km || 
+|-id=988 bgcolor=#E9E9E9
+| 554988 ||  || — || May 16, 2013 || Kitt Peak || Spacewatch ||  || align=right | 11 km || 
+|-id=989 bgcolor=#fefefe
+| 554989 ||  || — || May 20, 2013 || Palomar || PTF || H || align=right data-sort-value="057" | 570 m || 
+|-id=990 bgcolor=#E9E9E9
+| 554990 ||  || — || November 16, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="098" | 980 m || 
+|-id=991 bgcolor=#E9E9E9
+| 554991 ||  || — || November 21, 2006 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 13 km || 
+|-id=992 bgcolor=#E9E9E9
+| 554992 ||  || — || May 2, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 18 km || 
+|-id=993 bgcolor=#E9E9E9
+| 554993 ||  || — || April 15, 2013 || Haleakala || Pan-STARRS ||  || align=right | 13 km || 
+|-id=994 bgcolor=#d6d6d6
+| 554994 ||  || — || September 17, 2003 || Kitt Peak || Spacewatch ||  || align=right | 30 km || 
+|-id=995 bgcolor=#E9E9E9
+| 554995 ||  || — || May 16, 2013 || Haleakala || Pan-STARRS ||  || align=right data-sort-value="089" | 890 m || 
+|-id=996 bgcolor=#E9E9E9
+| 554996 ||  || — || August 18, 2001 || Palomar || NEAT ||  || align=right | 12 km || 
+|-id=997 bgcolor=#E9E9E9
+| 554997 ||  || — || November 10, 2010 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 20 km || 
+|-id=998 bgcolor=#d6d6d6
+| 554998 ||  || — || June 4, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right | 24 km || 
+|-id=999 bgcolor=#E9E9E9
+| 554999 ||  || — || June 5, 2013 || Kitt Peak || Spacewatch ||  || align=right | 18 km || 
+|-id=000 bgcolor=#E9E9E9
+| 555000 ||  || — || June 6, 2013 || Mount Lemmon || Mount Lemmon Survey ||  || align=right data-sort-value="086" | 860 m || 
+|}
+
+References
+
+External links 
+ Discovery Circumstances: Numbered Minor Planets (550001)–(555000) (IAU Minor Planet Center)
+
+0554

@@ -1,0 +1,24 @@
+Spy Phone is a mobile and computer monitoring app developed by Spy Phone Labs, LLC. The company is headquartered in New Jersey.
+
+Overview 
+The app allows users to monitor activity on different devices from a central account. The app allows them to track the GPS location, monitor call logs, data and online activity of their devices. According to Pensacola News Journal and The Good Men Project, the app is used by parents to monitor children's activity online, as well as to keep track of elderly relatives. The Florida Independent also noted app's application for tracking cheating spouses.
+
+History 
+Spy Phone was released in 2012 on iOS and Android operating systems. In 2020, Spy Phone announced that they had plans to implement a geofencing feature in an update. In 2021, Spy Phone Labs, LLC. acquired SpyFone.com for an undisclosed amount.
+
+Legal controversies
+
+Google lawsuit 
+Spy Phone Labs, LLC., the developers of Spy Phone, filed a $2 million lawsuit against Google in 2014. The lawsuit alleged that Google had allowed other developers to sell apps on Google Play Store under the trademarked name "Spy Phone", and that Google had retaliated against Spy Phone Labs after the developer raised a complaint.
+
+"SpyFone" Leaks 
+In 2018, Vice reported that SpyFone.com had been compromised by a hack which exposed terabytes of data from the app's users. According to Vice, this hack was exposed by an anonymous security researcher.
+
+Cybersquatting lawsuit 
+In December 2020, Spy Phone Labs, LLC. accused Cyprus-based spyware company Monapp Calabs Lyd. of cybersquatting by illegally imitating the company's domain name.
+
+References 
+
+Stalkerware
+Mobile applications
+Technology companies based in New Jersey

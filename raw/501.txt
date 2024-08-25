@@ -1,0 +1,6 @@
+Fusibacter is a minor genus into the Clostridiales order within the Firmicutes phylum. Validly published species started with the discovery of the thiosulfate-reducing bacterium Fusibacter paucivorans, being the most studied, isolated from oil-producing wells. Fusibacter tunisiensis was isolated from an anaerobic reactor used to treat olive-mill wastewater, Fusibacter bizertensis was identified from a corroded kerosene storage tank, Fusibacter fontis was the first species of this genus isolated from a natural environment. In general terms, the reported members of this genus are fermentative and halotolerant anaerobes. Moreover, these species share sulfur-reducing features capable of generating sulfide starting from elemental sulfur or thiosulfate sources. The first draft genome of a strain of Fusibacter recovered from a saline environment in Northern Chile has been reported.
+
+References
+
+Clostridiales
+Bacteria genera

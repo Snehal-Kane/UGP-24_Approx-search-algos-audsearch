@@ -1,0 +1,84 @@
+In finance, an option on realized variance (or variance option) is a type of variance derivatives which is the derivative securities on which the payoff depends on the annualized realized variance of the return of a specified underlying asset, e.g. stock index, bond, exchange rate, etc. Another liquidated security of the same type is variance swap, which is, in other words, the futures contract on realized variance.
+
+With a similar notion to the vanilla options, variance options give the owner a right but without obligation to buy or sell the realized variance in exchange with some agreed price (variance strike) sometime in the future (expiry date), except that risk exposure is solely subjected to the price's variance itself. This property gains interest among traders since they can use it as an instrument to speculate the future movement of the asset volatility to, for example, delta-hedge a portfolio, without taking a directional risk of possessing the underlying asset.
+
+Definitions
+In practice, the annualized realized variance is defined by the sum of the square of discrete-sampling log-return of the specified underlying asset. In the words, if there are  sampling points of the underlying prices, says  observed at time  where  for all , then the realized variance denoted by  is valued of the form
+
+where 
+
+ is an annualised factor normally selected to be  if the price is monitored daily, or  or  in the case of weekly or monthly observation, respectively and
+ is the options expiry date which is equal to the number 
+
+If one puts 
+
+ to be a variance strike and
+
+ be a notional amount converting the payoffs into a unit amount of money, says, e.g. USD or GBP,
+
+then payoffs at expiry for the call and put options written on  (or just variance call and put) are 
+
+ 
+
+and 
+
+respectively.
+
+Note that the annualized realized variance can also be defined through continuous sampling, which resulted in the quadratic variation of the underlying price. That is, if we suppose that  determines the instantaneous volatility of the price process, then
+
+defines the continuous-sampling annualized realized variance which is also proved to be the limit in the probability of the discrete form i.e.
+
+.
+
+However, this approach is only adopted to approximate the discrete one since the contracts involving realized variance are practically quoted in terms of the discrete sampling.
+
+Pricing and valuation
+Suppose that under a risk-neutral measure  the underlying asset price  solves the time-varying Black–Scholes model as follows:
+
+ 
+
+where:
+ is (time varying) risk-free interest rate,
+ is (time varying) price volatility, and
+ is a Brownian motion under the filtered probability space  where  is the natural filtration of .
+
+ฺBy this setting, in the case of variance call, its fair price at time  denoted by  can be attained by the expected present value of its payoff function i.e.
+
+where  for the discrete sampling while  for the continuous sampling. And by put-call parity we also get the put value once  is known. The solution can be approached analytically with the similar methodology to that of the Black–Scholes derivation once the probability density function of  is perceived, or by means of some approximation schemes, like, the Monte Carlo method.
+
+Analytically pricing variance options with discrete sampling with time-varying risk-free interest rate and constant price volatility
+Owning to Rujivan and Rakwongwan (2021), in the case of discrete sampling realized variance with time-varying risk-free interest rate  and constant price volatility , by exploiting the noncentral chi-square distribution of , the analytical pricing solution for variance call can be derived by the following argument. 
+
+First, if we define 
+	 
+ 
+	 
+ 
+	 
+ and
+	 
+ for all 
+	 
+then the variance call price is of the following closed-form formula
+	 
+
+for  indexed the cases  and , respectively, where
+	 
+ represents the fair strike price of variance swap,
+
+ is a modified Bessel function of the first kind with parameter  and
+
+ is the gamma function.
+
+Although the formula gives an exact solution to the variance options, it is only functional with deterministic interest rate and constant price volatility. And for the more inclusive models where either of the parameters evolves stochastically e.g. the Heston model, there is still no closed-form formula uncovered, leaving an intriguing issue for the further contribution of derivatives pricing.
+
+See also
+Variance swap
+Volatility swap
+Volatility (finance)
+
+References
+
+Derivatives (finance)
+options (finance)
+Statistical deviation and dispersion
